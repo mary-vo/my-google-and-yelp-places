@@ -1,0 +1,4994 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3884590,
+          37.7612100
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=37.761210,-122.388459",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7612100",
+            "Longitude": "-122.3884590"
+          }
+        },
+        "Published": "2017-06-30T22:55:32Z",
+        "Title": "37.761210,-122.388459",
+        "Updated": "2023-01-20T10:59:03Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7635152,
+          38.2553743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=38.25537424266863,-85.76351523399353",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "38.2553743",
+            "Longitude": "-85.7635152"
+          }
+        },
+        "Published": "2022-10-22T23:45:00Z",
+        "Title": "38.25537424266863,-85.76351523399353",
+        "Updated": "2022-10-22T23:45:00Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.4015618,
+          43.6575183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=43.657518,-79.401562",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "43.6575183",
+            "Longitude": "-79.4015618"
+          }
+        },
+        "Published": "2017-10-26T03:25:25Z",
+        "Title": "43.657518,-79.401562",
+        "Updated": "2022-09-17T09:14:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6854885,
+          10.7411989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=10.741199,106.685488",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.7411989",
+            "Longitude": "106.6854885"
+          }
+        },
+        "Published": "2017-04-12T23:00:42Z",
+        "Title": "10.741199,106.685488",
+        "Updated": "2022-09-07T13:35:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0602188,
+          42.3514938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.351494,-71.060219",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3514938",
+            "Longitude": "-71.0602188"
+          }
+        },
+        "Published": "2018-03-10T22:04:54Z",
+        "Title": "42.351494,-71.060219",
+        "Updated": "2022-09-05T03:52:38Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.4979498,
+          38.0469428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12258031409520386620",
+        "Location": {
+          "Address": "160 W Main St, Lexington, KY 40507, United States",
+          "Business Name": "ItalX",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.0469428",
+            "Longitude": "-84.4979498"
+          }
+        },
+        "Published": "2022-01-09T07:20:55Z",
+        "Title": "ItalX",
+        "Updated": "2022-01-09T07:20:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7229082,
+          38.2504733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=600+Distillery+Commons,+Louisville,+KY+40206&ftid=0x8869732635d4f2bf:0xe3790efd102cc88d",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "38.2504733",
+            "Longitude": "-85.7229082"
+          }
+        },
+        "Published": "2021-12-15T18:23:33Z",
+        "Title": "600 Distillery Commons, Louisville, KY 40206",
+        "Updated": "2021-12-15T18:23:33Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.4960549,
+          39.0951878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12280451460608432694",
+        "Location": {
+          "Address": "One Levee Way, Newport, KY 41071, United States",
+          "Business Name": "Newport on the Levee",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.0951878",
+            "Longitude": "-84.4960549"
+          }
+        },
+        "Published": "2021-12-02T20:09:45Z",
+        "Title": "Newport on the Levee",
+        "Updated": "2021-12-02T20:09:45Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.5174883,
+          39.1090811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14018748698944894205",
+        "Location": {
+          "Address": "1310 Elm St, Cincinnati, OH 45202, United States",
+          "Business Name": "SP+ Parking",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.1090811",
+            "Longitude": "-84.5174883"
+          }
+        },
+        "Published": "2021-12-02T19:10:47Z",
+        "Title": "SP+ Parking",
+        "Updated": "2021-12-02T19:10:47Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.6747738,
+          41.5937016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15791859664506878061",
+        "Location": {
+          "Address": "4201 Chamberlain Ave, Des Moines, IA 50312, United States",
+          "Business Name": "Alterations & Custom Made By Tran",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.5937016",
+            "Longitude": "-93.6747738"
+          }
+        },
+        "Published": "2021-12-02T18:23:26Z",
+        "Title": "Alterations & Custom Made By Tran",
+        "Updated": "2021-12-02T18:23:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8410710,
+          39.7300310
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7365429312167631813",
+        "Location": {
+          "Address": "134 W 2nd St, Chico, CA 95928, United States",
+          "Business Name": "The Banshee",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7300310",
+            "Longitude": "-121.8410710"
+          }
+        },
+        "Published": "2021-11-24T19:45:03Z",
+        "Title": "The Banshee",
+        "Updated": "2021-11-24T19:45:03Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7426379,
+          38.2445990
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3026443854818250306",
+        "Location": {
+          "Address": "618 E Broadway, Louisville, KY 40202, United States",
+          "Business Name": "Architectural Salvage",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.2445990",
+            "Longitude": "-85.7426379"
+          }
+        },
+        "Published": "2021-11-21T01:15:36Z",
+        "Title": "Architectural Salvage",
+        "Updated": "2021-11-21T01:15:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4320932,
+          37.7850458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=37.785046,-122.432093",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7850458",
+            "Longitude": "-122.4320932"
+          }
+        },
+        "Published": "2017-06-30T19:59:38Z",
+        "Title": "37.785046,-122.432093",
+        "Updated": "2021-11-15T15:42:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.9739013,
+          10.1511726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=10.151173,103.973901",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.1511726",
+            "Longitude": "103.9739013"
+          }
+        },
+        "Published": "2017-08-10T23:35:45Z",
+        "Title": "10.151173,103.973901",
+        "Updated": "2021-09-16T14:21:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0036954,
+          40.7316723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=40.731672,-74.003695",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "40.7316723",
+            "Longitude": "-74.0036954"
+          }
+        },
+        "Published": "2017-11-10T00:35:14Z",
+        "Title": "40.731672,-74.003695",
+        "Updated": "2021-06-05T15:51:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6923943,
+          10.7715222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=10.771522,106.692394",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.7715222",
+            "Longitude": "106.6923943"
+          }
+        },
+        "Published": "2018-02-25T21:15:07Z",
+        "Title": "10.771522,106.692394",
+        "Updated": "2021-05-30T00:33:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6837418,
+          10.7744654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=10.774465,106.683742",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.7744654",
+            "Longitude": "106.6837418"
+          }
+        },
+        "Published": "2018-02-25T22:12:47Z",
+        "Title": "10.774465,106.683742",
+        "Updated": "2021-04-30T17:08:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2741989,
+          37.8015027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=37.801503,-122.274199",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.8015027",
+            "Longitude": "-122.2741989"
+          }
+        },
+        "Published": "2017-06-30T22:59:40Z",
+        "Title": "37.801503,-122.274199",
+        "Updated": "2021-03-19T07:54:17Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6913370,
+          10.7661230
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=10.766123,106.691337",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.7661230",
+            "Longitude": "106.6913370"
+          }
+        },
+        "Published": "2018-02-25T22:51:25Z",
+        "Title": "10.766123,106.691337",
+        "Updated": "2021-03-08T13:29:23Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.7857092,
+          43.3033056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Decorah,+IA+52101&ftid=0x87fbad831de5c483:0xa0f87be1682e49be",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "43.3033056",
+            "Longitude": "-91.7857092"
+          }
+        },
+        "Published": "2020-12-04T22:45:37Z",
+        "Title": "Decorah, Iowa 52101",
+        "Updated": "2020-12-04T22:45:37Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2723864,
+          47.8647010
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=14715+Admiralty+Way+Unit+B-6,+Lynnwood,+WA+98087&ftid=0x549005a02c8eaed9:0xf6a36cad2b0c26c5",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "47.8647010",
+            "Longitude": "-122.2723864"
+          }
+        },
+        "Published": "2020-09-11T17:47:24Z",
+        "Title": "14715 Admiralty Way Unit B-6, Lynnwood, WA 98087",
+        "Updated": "2020-09-11T17:47:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.6517105,
+          30.0394935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10163907364140691841",
+        "Location": {
+          "Address": "5099 LA-18, Edgard, LA 70049, United States",
+          "Business Name": "Whitney Plantation",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "30.0394935",
+            "Longitude": "-90.6517105"
+          }
+        },
+        "Published": "2020-09-09T05:25:51Z",
+        "Title": "Whitney Plantation",
+        "Updated": "2020-09-09T05:25:51Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.3644800,
+          29.9449541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7852009744764689550",
+        "Location": {
+          "Address": "13034 River Rd, Destrehan, LA 70047, United States",
+          "Business Name": "Destrehan Plantation",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "29.9449541",
+            "Longitude": "-90.3644800"
+          }
+        },
+        "Published": "2020-09-09T05:23:47Z",
+        "Title": "Destrehan Plantation",
+        "Updated": "2020-09-09T05:23:47Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.7722602,
+          30.0059865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10697435604808828719",
+        "Location": {
+          "Address": "3535 LA-18, Vacherie, LA 70090, United States",
+          "Business Name": "St. Joseph Plantation Felicity Plantation",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "30.0059865",
+            "Longitude": "-90.7722602"
+          }
+        },
+        "Published": "2020-09-09T05:22:00Z",
+        "Title": "St. Joseph Plantation Felicity Plantation",
+        "Updated": "2020-09-09T05:22:00Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.6019410,
+          30.0494920
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=420732010859977235",
+        "Location": {
+          "Address": "2646 LA-44, Garyville, LA 70051, United States",
+          "Business Name": "San Francisco Plantation",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "30.0494920",
+            "Longitude": "-90.6019410"
+          }
+        },
+        "Published": "2020-09-09T05:20:41Z",
+        "Title": "San Francisco Plantation",
+        "Updated": "2020-09-09T05:20:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.9350710,
+          30.1406580
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16950711924776672379",
+        "Location": {
+          "Address": "40136 LA-942, Darrow, LA 70725, United States",
+          "Business Name": "Houmas House and Gardens",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "30.1406580",
+            "Longitude": "-90.9350710"
+          }
+        },
+        "Published": "2020-09-09T05:18:58Z",
+        "Title": "Houmas House and Gardens",
+        "Updated": "2020-09-09T05:18:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.7759972,
+          30.0042359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6188830332423791664",
+        "Location": {
+          "Address": "3645 LA-18, Vacherie, LA 70090, United States",
+          "Business Name": "Oak Alley Plantation",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "30.0042359",
+            "Longitude": "-90.7759972"
+          }
+        },
+        "Published": "2020-09-09T05:16:41Z",
+        "Title": "Oak Alley Plantation",
+        "Updated": "2020-09-09T05:16:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.7252554,
+          30.0081489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12151319427172645898",
+        "Location": {
+          "Address": "2247 LA-18, Vacherie, LA 70090, United States",
+          "Business Name": "Laura Plantation: Louisiana's Créole Heritage Site",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "30.0081489",
+            "Longitude": "-90.7252554"
+          }
+        },
+        "Published": "2020-09-09T05:16:29Z",
+        "Title": "Laura Plantation: Louisiana's Creole Heritage Site",
+        "Updated": "2020-09-09T05:16:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0556544,
+          42.3640661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=42.364066,-71.055654",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.3640661",
+            "Longitude": "-71.0556544"
+          }
+        },
+        "Published": "2018-05-29T14:44:52Z",
+        "Title": "42.364066,-71.055654",
+        "Updated": "2020-07-19T14:01:56Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0172746,
+          39.7877291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=5009+Alcott+St,+Denver,+CO+80221&ftid=0x876c786efa744763:0xe31b0f321747663a",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "39.7877291",
+            "Longitude": "-105.0172746"
+          }
+        },
+        "Published": "2020-07-12T17:12:33Z",
+        "Title": "5009 Alcott St, Denver, CO 80221",
+        "Updated": "2020-07-12T17:12:33Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.6754239,
+          41.6146218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12790318591537331798",
+        "Location": {
+          "Address": "1423 Bernath, Toledo, OH 43615, United States",
+          "Business Name": "Koreana Asian Grill and Sushi",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.6146218",
+            "Longitude": "-83.6754239"
+          }
+        },
+        "Published": "2020-07-11T21:32:46Z",
+        "Title": "Koreana Asian Grill and Sushi",
+        "Updated": "2020-07-11T21:32:46Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3415442,
+          47.6099251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17153935726785512238",
+        "Location": {
+          "Address": "86 Pine St Suite #1, Seattle, WA 98101, United States",
+          "Business Name": "Sushi Kashiba",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "47.6099251",
+            "Longitude": "-122.3415442"
+          }
+        },
+        "Published": "2020-06-11T02:13:15Z",
+        "Title": "Sushi Kashiba",
+        "Updated": "2020-06-11T02:13:15Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6511557,
+          10.7494131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=10.749413,106.651156",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.7494131",
+            "Longitude": "106.6511557"
+          }
+        },
+        "Published": "2018-02-25T21:48:22Z",
+        "Title": "10.749413,106.651156",
+        "Updated": "2020-02-21T12:44:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6970699,
+          10.7738300
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=10.773830,106.697070",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.7738300",
+            "Longitude": "106.6970699"
+          }
+        },
+        "Published": "2018-06-13T16:45:10Z",
+        "Title": "10.773830,106.697070",
+        "Updated": "2020-01-22T09:47:13Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5057515,
+          46.0569465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Ljubljana,+Slovenia&ftid=0x476531f5969886d1:0x400f81c823fec20",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "46.0569465",
+            "Longitude": "14.5057515"
+          }
+        },
+        "Published": "2019-08-15T23:31:18Z",
+        "Title": "Ljubljana, Slovenia",
+        "Updated": "2019-08-15T23:31:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.3305470,
+          15.8775122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=15.877512,108.330547",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "15.8775122",
+            "Longitude": "108.3305470"
+          }
+        },
+        "Published": "2018-03-17T15:58:00Z",
+        "Title": "15.877512,108.330547",
+        "Updated": "2019-07-04T11:20:34Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2314388,
+          20.6312542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1700514713939476137",
+        "Location": {
+          "Address": "David Alfaro Siqueiros 164, Zona Hotelera, Las Glorias, 48333 Puerto Vallarta, Jal., Mexico",
+          "Business Name": "Secrets Vallarta Bay Puerto Vallarta",
+          "Country Code": "MX",
+          "Geo Coordinates": {
+            "Latitude": "20.6312542",
+            "Longitude": "-105.2314388"
+          }
+        },
+        "Published": "2019-01-06T05:33:12Z",
+        "Title": "Secrets Vallarta Bay Puerto Vallarta",
+        "Updated": "2019-01-06T05:33:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0184609,
+          38.9034643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3144615737174090327",
+        "Location": {
+          "Address": "490 L St NW, Washington, DC 20001, United States",
+          "Business Name": "Safeway Wine and Beer",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.9034643",
+            "Longitude": "-77.0184609"
+          }
+        },
+        "Published": "2018-09-23T07:03:16Z",
+        "Title": "Safeway Wine and Beer",
+        "Updated": "2018-09-23T07:03:16Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.7297632,
+          10.8169107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16748152945042416194",
+        "Location": {
+          "Address": "188/1 Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh 70000, Vietnam",
+          "Business Name": "Saigon Outcast",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.8169107",
+            "Longitude": "106.7297632"
+          }
+        },
+        "Published": "2018-06-18T06:12:17Z",
+        "Title": "Saigon Outcast",
+        "Updated": "2018-06-18T06:12:17Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.7268558,
+          10.8138683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2485254782472222189",
+        "Location": {
+          "Address": "5 Đường số 40, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Hue Corner",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.8138683",
+            "Longitude": "106.7268558"
+          }
+        },
+        "Published": "2018-06-18T06:07:36Z",
+        "Title": "Hue Corner",
+        "Updated": "2018-06-18T06:07:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6953021,
+          10.7769942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1695404177673260394",
+        "Location": {
+          "Address": "135 Đ. Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Reunification Palace",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7769942",
+            "Longitude": "106.6953021"
+          }
+        },
+        "Published": "2018-06-18T06:04:27Z",
+        "Title": "Independence Palace",
+        "Updated": "2018-06-18T06:04:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6208100,
+          41.8932120
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16942207607348428341",
+        "Location": {
+          "Address": "247 E Ontario St, Chicago, IL 60611, United States",
+          "Business Name": "Indian Garden Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8932120",
+            "Longitude": "-87.6208100"
+          }
+        },
+        "Published": "2018-06-14T12:20:55Z",
+        "Title": "Indian Garden Restaurant",
+        "Updated": "2018-06-14T12:20:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6919138,
+          10.7698115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2487787152096344267",
+        "Location": {
+          "Address": "12 Đ. Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+          "Business Name": "Mỹ Anh 120 Sài Gòn",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7698115",
+            "Longitude": "106.6919138"
+          }
+        },
+        "Published": "2018-06-13T23:11:28Z",
+        "Title": "Mý Anh 120 Sài Gòn",
+        "Updated": "2018-06-13T23:11:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6614046,
+          41.8844840
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17120616741125628403",
+        "Location": {
+          "Address": "1364 W Randolph St, Chicago, IL 60607, United States",
+          "Business Name": "Gyu-Kaku Japanese BBQ",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8844840",
+            "Longitude": "-87.6614046"
+          }
+        },
+        "Published": "2018-06-13T17:15:32Z",
+        "Title": "Gyu-Kaku Japanese BBQ",
+        "Updated": "2018-06-13T17:15:32Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6222222,
+          41.8927778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10342090585327276262",
+        "Location": {
+          "Address": "210 E Ohio St, Chicago, IL 60611, United States",
+          "Business Name": "Gyu-Kaku Japanese BBQ",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8927778",
+            "Longitude": "-87.6222222"
+          }
+        },
+        "Published": "2018-06-13T17:15:04Z",
+        "Title": "Gyu-Kaku Japanese BBQ",
+        "Updated": "2018-06-13T17:15:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7376722,
+          38.2529701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9658981084961007758",
+        "Location": {
+          "Address": "808 E Market St, Louisville, KY 40206, United States",
+          "Business Name": "Lueberry",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.2529701",
+            "Longitude": "-85.7376722"
+          }
+        },
+        "Published": "2018-06-13T12:54:42Z",
+        "Title": "Lueberry acai",
+        "Updated": "2018-06-13T12:54:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.7358440,
+          41.6066060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3451879646804707465",
+        "Location": {
+          "Address": "1679 NW 86th St, Clive, IA 50325, United States",
+          "Business Name": "Amaravati Indian Cuisine",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.6066060",
+            "Longitude": "-93.7358440"
+          }
+        },
+        "Published": "2018-06-11T04:22:43Z",
+        "Title": "Amaravati Indian Cuisine",
+        "Updated": "2018-06-11T04:22:43Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          99.8211455,
+          19.8580820
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18333294537623024288",
+        "Location": {
+          "Address": "Phahonyothin Road, San Sai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand",
+          "Business Name": "Chiang Rai Bus Terminal 2",
+          "Country Code": "TH",
+          "Geo Coordinates": {
+            "Latitude": "19.8580820",
+            "Longitude": "99.8211455"
+          }
+        },
+        "Published": "2018-06-07T02:16:04Z",
+        "Title": "Chiang Rai Bus Terminal 2",
+        "Updated": "2018-06-07T02:16:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.4098892,
+          37.8115005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9955226266577518307",
+        "Location": {
+          "Address": "1500 Parkway Dr, Bardstown, KY 40004, United States",
+          "Business Name": "Bardstown Bourbon Company",
+          "Geo Coordinates": {
+            "Latitude": "37.8115005",
+            "Longitude": "-85.4098892"
+          }
+        },
+        "Published": "2018-06-06T20:21:42Z",
+        "Title": "Bardstown Bourbon Company",
+        "Updated": "2018-06-06T20:21:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0616334,
+          42.3583663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1862276779397884702",
+        "Location": {
+          "Address": "11 Beacon St, Boston, MA 02108, United States",
+          "Business Name": "Carrie Nation Cocktail Club",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3583663",
+            "Longitude": "-71.0616334"
+          }
+        },
+        "Published": "2018-05-29T14:47:08Z",
+        "Title": "Carrie Nation Cocktail Club",
+        "Updated": "2018-05-29T14:47:08Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0565917,
+          42.3595417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4877138763894758953",
+        "Location": {
+          "Address": "60 State St, Boston, MA 02109, United States",
+          "Business Name": "Sterling’s",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3595417",
+            "Longitude": "-71.0565917"
+          }
+        },
+        "Published": "2018-05-29T14:46:54Z",
+        "Title": "Sterling’s",
+        "Updated": "2018-05-29T14:46:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0514169,
+          42.3595128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11422642051644273234",
+        "Location": {
+          "Address": "255 State St, Boston, MA 02109, United States",
+          "Business Name": "State Street Provisions",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3595128",
+            "Longitude": "-71.0514169"
+          }
+        },
+        "Published": "2018-05-29T14:46:04Z",
+        "Title": "State Street Provisions",
+        "Updated": "2018-05-29T14:46:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0660355,
+          42.3768973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7610693221000585321",
+        "Location": {
+          "Address": "251 Main St, Boston, MA 02129, United States",
+          "Business Name": "Monument Charlestown Restaurant & Tavern",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3768973",
+            "Longitude": "-71.0660355"
+          }
+        },
+        "Published": "2018-05-29T14:43:16Z",
+        "Title": "Monument Restaurant & Tavern",
+        "Updated": "2018-05-29T14:43:16Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0512740,
+          42.3653702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17617861567688600328",
+        "Location": {
+          "Address": "326 Commercial Street, Boston, MA 02109, United States",
+          "Business Name": "Il Molo",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3653702",
+            "Longitude": "-71.0512740"
+          }
+        },
+        "Published": "2018-05-29T14:42:57Z",
+        "Title": "Il Molo",
+        "Updated": "2018-05-29T14:42:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.1070480,
+          42.3464100
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10439927467857677261",
+        "Location": {
+          "Address": "1002 Beacon St, Brookline, MA 02446, United States",
+          "Business Name": "Gyu-Kaku Japanese BBQ",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3464100",
+            "Longitude": "-71.1070480"
+          }
+        },
+        "Published": "2018-05-27T22:01:12Z",
+        "Title": "Gyu-Kaku Japanese BBQ",
+        "Updated": "2018-05-27T22:01:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0569080,
+          42.3612880
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6319045547406381352",
+        "Location": {
+          "Address": "41 Union St, Boston, MA 02108, United States",
+          "Business Name": "Union Oyster House",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3612880",
+            "Longitude": "-71.0569080"
+          }
+        },
+        "Published": "2018-05-22T11:16:38Z",
+        "Title": "Union Oyster House",
+        "Updated": "2018-05-22T11:16:38Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.1074912,
+          26.2054117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7528147397678645567",
+        "Location": {
+          "Address": "6234 N Federal Hwy, Fort Lauderdale, FL 33308, United States",
+          "Business Name": "PINCHO (Pincho Factory)",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "26.2054117",
+            "Longitude": "-80.1074912"
+          }
+        },
+        "Published": "2018-05-19T19:14:59Z",
+        "Title": "Pincho Factory",
+        "Updated": "2018-05-19T19:14:59Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0590392,
+          42.3040503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12326060072205759318",
+        "Location": {
+          "Address": "1370 Dorchester Ave, Dorchester, MA 02122, United States",
+          "Business Name": "Ánh Hồng Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3040503",
+            "Longitude": "-71.0590392"
+          }
+        },
+        "Published": "2018-05-19T16:57:01Z",
+        "Title": "Ánh Hồng Restaurant",
+        "Updated": "2018-05-19T16:57:01Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.3212143,
+          15.8767520
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11502047482396570952",
+        "Location": {
+          "Address": "27 Đào Duy Từ, Phường Minh An, Hội An, Quảng Nam, Vietnam",
+          "Business Name": "Calla Villa",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "15.8767520",
+            "Longitude": "108.3212143"
+          }
+        },
+        "Published": "2018-05-17T23:55:29Z",
+        "Title": "Calla Villa",
+        "Updated": "2018-05-17T23:55:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0341528,
+          42.3470773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13888691718098843774",
+        "Location": {
+          "Address": "306 Northern Ave, Boston, MA 02210, United States",
+          "Business Name": "Harpoon Brewery",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3470773",
+            "Longitude": "-71.0341528"
+          }
+        },
+        "Published": "2018-05-17T23:11:29Z",
+        "Title": "Harpoon Brewery And Beer Hall",
+        "Updated": "2018-05-17T23:11:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0575375,
+          42.3616719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15650615817702684376",
+        "Location": {
+          "Address": "100 Hanover St, Boston, MA 02108, United States",
+          "Business Name": "Boston Public Market",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3616719",
+            "Longitude": "-71.0575375"
+          }
+        },
+        "Published": "2018-05-17T22:58:57Z",
+        "Title": "Boston Public Market",
+        "Updated": "2018-05-17T22:58:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0572806,
+          42.3612722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11991896608654056904",
+        "Location": {
+          "Address": "98 Union St, Boston, MA 02129, United States",
+          "Business Name": "The New England Holocaust Memorial",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3612722",
+            "Longitude": "-71.0572806"
+          }
+        },
+        "Published": "2018-05-17T22:58:44Z",
+        "Title": "The New England Holocaust Memorial",
+        "Updated": "2018-05-17T22:58:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0572806,
+          42.3612722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16587950898755060387",
+        "Location": {
+          "Address": "98 Union St, Boston, MA 02129, United States",
+          "Business Name": "The New England Holocaust Memorial",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3612722",
+            "Longitude": "-71.0572806"
+          }
+        },
+        "Published": "2018-05-17T22:57:40Z",
+        "Title": "New England Holocaust Memorial",
+        "Updated": "2018-05-17T22:57:40Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.5737693,
+          38.2458369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6696046379846011570",
+        "Location": {
+          "Address": "9800 Shelbyville Rd #101, Louisville, KY 40223, United States",
+          "Business Name": "Cali Nails",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.2458369",
+            "Longitude": "-85.5737693"
+          }
+        },
+        "Published": "2018-05-12T22:24:48Z",
+        "Title": "Cali Nails",
+        "Updated": "2018-05-12T22:24:48Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7610159,
+          38.2572403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13625261712202640639",
+        "Location": {
+          "Address": "631 W Main St, Louisville, KY 40202, United States",
+          "Business Name": "Art Eatables",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.2572403",
+            "Longitude": "-85.7610159"
+          }
+        },
+        "Published": "2018-05-11T14:07:22Z",
+        "Title": "Art Eatables - Louisville Bourbon Chocolates",
+        "Updated": "2018-05-11T14:07:22Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7579249,
+          38.2477468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5802216092226218375",
+        "Location": {
+          "Address": "631 S 4th St, Louisville, KY 40202, United States",
+          "Business Name": "Art Eatables",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "38.2477468",
+            "Longitude": "-85.7579249"
+          }
+        },
+        "Published": "2018-05-11T13:55:40Z",
+        "Title": "Art Eatables",
+        "Updated": "2018-05-11T13:55:40Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.2492183,
+          39.7655447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18110631859822055859",
+        "Location": {
+          "Address": "5230 Rockville Rd, Indianapolis, IN 46224, United States",
+          "Business Name": "Payless Liquors",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7655447",
+            "Longitude": "-86.2492183"
+          }
+        },
+        "Published": "2018-05-10T11:55:55Z",
+        "Title": "Payless Liquors",
+        "Updated": "2018-05-10T11:55:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.2539926,
+          39.7514101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15015460402577471789",
+        "Location": {
+          "Address": "5515 W Washington St, Indianapolis, IN 46241, United States",
+          "Business Name": "Discount liquors",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7514101",
+            "Longitude": "-86.2539926"
+          }
+        },
+        "Published": "2018-05-10T11:55:42Z",
+        "Title": "Crown Liquors",
+        "Updated": "2018-05-10T11:55:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.2618750,
+          39.7657202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13833908426787286066",
+        "Location": {
+          "Address": "15 Beachway Dr, Indianapolis, IN 46224, United States",
+          "Business Name": "Royal Liquors",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7657202",
+            "Longitude": "-86.2618750"
+          }
+        },
+        "Published": "2018-05-10T11:55:28Z",
+        "Title": "Crown Liquors",
+        "Updated": "2018-05-10T11:55:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.3709259,
+          39.8329048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7433770305764744202",
+        "Location": {
+          "Address": "1447 E Main St, Brownsburg, IN 46112, United States",
+          "Business Name": "Big Red Liquors",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.8329048",
+            "Longitude": "-86.3709259"
+          }
+        },
+        "Published": "2018-05-10T11:54:58Z",
+        "Title": "Big Red Liquors",
+        "Updated": "2018-05-10T11:54:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8864413,
+          40.0438997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12654545393033915355",
+        "Location": {
+          "Address": "1101 Darlington Ave, Crawfordsville, IN 47933, United States",
+          "Business Name": "Ken's Liquor Store",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.0438997",
+            "Longitude": "-86.8864413"
+          }
+        },
+        "Published": "2018-05-10T11:52:28Z",
+        "Title": "Ken's Liquor Store",
+        "Updated": "2018-05-10T11:52:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.2986978,
+          40.9238098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2217944373482813591",
+        "Location": {
+          "Address": "1438 Knox Hwy 9, Galesburg, IL 61401, United States",
+          "Business Name": "Exit 51 Liquor",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.9238098",
+            "Longitude": "-90.2986978"
+          }
+        },
+        "Published": "2018-05-09T23:14:42Z",
+        "Title": "Exit 51 Liquor",
+        "Updated": "2018-05-09T23:14:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.3506772,
+          40.9441541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9354468894215614593",
+        "Location": {
+          "Address": "1280 Grand Ave, Galesburg, IL 61401, United States",
+          "Business Name": "Grand Liquor",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.9441541",
+            "Longitude": "-90.3506772"
+          }
+        },
+        "Published": "2018-05-09T23:14:34Z",
+        "Title": "Grand Liquor",
+        "Updated": "2018-05-09T23:14:34Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.6249969,
+          40.7255700
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17122733253993910677",
+        "Location": {
+          "Address": "2009 W Forrest Hill Ave, Peoria, IL 61604, United States",
+          "Business Name": "Forrest Hill Liquors",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7255700",
+            "Longitude": "-89.6249969"
+          }
+        },
+        "Published": "2018-05-09T18:20:51Z",
+        "Title": "Forrest Hill Liquors",
+        "Updated": "2018-05-09T18:20:51Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.6326280,
+          40.7336345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15090655302463546765",
+        "Location": {
+          "Address": "3801 N Sterling Ave, Peoria, IL 61615, United States",
+          "Business Name": "Sherman Liquor Store",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7336345",
+            "Longitude": "-89.6326280"
+          }
+        },
+        "Published": "2018-05-09T18:20:43Z",
+        "Title": "Sherman Liquor Store",
+        "Updated": "2018-05-09T18:20:43Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.4635578,
+          39.7982746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3540394084144682185",
+        "Location": {
+          "Address": "3101 Philadelphia Pike, Claymont, DE 19703, United States",
+          "Business Name": "Yetter's Liquors",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7982746",
+            "Longitude": "-75.4635578"
+          }
+        },
+        "Published": "2018-04-30T13:12:48Z",
+        "Title": "Yetter's Liquors",
+        "Updated": "2018-04-30T13:12:48Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          99.7636492,
+          19.8241697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3928216121410715923",
+        "Location": {
+          "Address": "60 หมู่ที่ 1 Phahonyothin Road, Pa O Don Chai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand",
+          "Business Name": "Wat Rong Khun - White Temple",
+          "Country Code": "TH",
+          "Geo Coordinates": {
+            "Latitude": "19.8241697",
+            "Longitude": "99.7636492"
+          }
+        },
+        "Published": "2018-04-29T19:27:56Z",
+        "Title": "WAT RONG KHUN",
+        "Updated": "2018-04-29T19:27:56Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          99.8791495,
+          19.9542835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7505360539318160944",
+        "Location": {
+          "Address": "404 หมู่ที่ 10 Phahonyothin Road, Ban Du, Mueang Chiang Rai District, Chiang Rai 57100, Thailand",
+          "Business Name": "Mae Fah Luang - Chiang Rai International Airport",
+          "Country Code": "TH",
+          "Geo Coordinates": {
+            "Latitude": "19.9542835",
+            "Longitude": "99.8791495"
+          }
+        },
+        "Published": "2018-04-29T19:26:48Z",
+        "Title": "Mae Fah Luang - Chiang Rai International Airport",
+        "Updated": "2018-04-29T19:26:48Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.1218522,
+          42.2055554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11871226576318974921",
+        "Location": {
+          "Address": "100 Royall St, Canton, MA 02021, United States",
+          "Business Name": "Trillium Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.2055554",
+            "Longitude": "-71.1218522"
+          }
+        },
+        "Published": "2018-04-21T00:19:07Z",
+        "Title": "Trillium Brewing",
+        "Updated": "2018-04-21T00:19:07Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.3128423,
+          7.8275763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4507382972739313619",
+        "Location": {
+          "Address": "ยอดเขานาคเกิด Karon, Mueang Phuket District, Phuket 83100, Thailand",
+          "Business Name": "The Big Buddha, Phuket",
+          "Country Code": "TH",
+          "Geo Coordinates": {
+            "Latitude": "7.8275763",
+            "Longitude": "98.3128423"
+          }
+        },
+        "Published": "2018-03-26T22:12:13Z",
+        "Title": "Big Buddha",
+        "Updated": "2018-03-26T22:12:13Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.7569024,
+          41.6306677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18150300628263551141",
+        "Location": {
+          "Address": "3828 100th St, Urbandale, IA 50322, United States",
+          "Business Name": "Konark Grocers",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.6306677",
+            "Longitude": "-93.7569024"
+          }
+        },
+        "Published": "2018-03-23T17:33:02Z",
+        "Title": "Konark Grocers",
+        "Updated": "2018-03-23T17:33:02Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.7122465,
+          -7.6145292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Java,+Indonesia&ftid=0x2e7aa07ed2323237:0x86fe1c59d6abed60",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "-7.6145292",
+            "Longitude": "110.7122465"
+          }
+        },
+        "Published": "2018-03-20T04:29:08Z",
+        "Title": "Java, Indonesia",
+        "Updated": "2018-03-20T04:29:08Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.1452734,
+          -3.2384616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Maluku,+Indonesia&ftid=0x2d11bcba701ca1df:0x5e30e8db04649a51",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "-3.2384616",
+            "Longitude": "130.1452734"
+          }
+        },
+        "Published": "2018-03-20T04:28:47Z",
+        "Title": "Maluku, Indonesia",
+        "Updated": "2018-03-20T04:28:47Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8812161,
+          40.7351919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4706183235305355110",
+        "Location": {
+          "Address": "85-22 Grand Ave, Elmhurst, NY 11373, United States",
+          "Business Name": "Patacon Pisao",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7351919",
+            "Longitude": "-73.8812161"
+          }
+        },
+        "Published": "2018-03-18T15:15:22Z",
+        "Title": "Patacon Pisao",
+        "Updated": "2018-03-18T15:15:22Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2668303,
+          37.8702890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13438390066715321735",
+        "Location": {
+          "Address": "2136 Center St, Berkeley, CA 94704, United States",
+          "Business Name": "Chick'N Rice",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8702890",
+            "Longitude": "-122.2668303"
+          }
+        },
+        "Published": "2018-03-18T15:13:38Z",
+        "Title": "Chick'N Rice",
+        "Updated": "2018-03-18T15:13:38Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9912950,
+          40.7378950
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7093133200907637689",
+        "Location": {
+          "Address": "5-7 E 17th St, New York, NY 10003, United States",
+          "Business Name": "Union Park Events",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7378950",
+            "Longitude": "-73.9912950"
+          }
+        },
+        "Published": "2018-03-17T21:16:53Z",
+        "Title": "Union Fare",
+        "Updated": "2018-03-17T21:16:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.3139026,
+          15.8910393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12880359379895266950",
+        "Location": {
+          "Address": "317 Nguyen Tat Thanh, Tp. Hội An, Quảng Nam, Vietnam",
+          "Business Name": "Hoian Bicycle Tour",
+          "Geo Coordinates": {
+            "Latitude": "15.8910393",
+            "Longitude": "108.3139026"
+          }
+        },
+        "Published": "2018-03-17T15:47:13Z",
+        "Title": "Hoian Bicycle Tour",
+        "Updated": "2018-03-17T15:47:13Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9750004,
+          40.6811056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2043113265499996366",
+        "Location": {
+          "Address": "237 Flatbush Ave, Brooklyn, NY 11217, United States",
+          "Business Name": "PokéBowl Station + Mars Tea",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.6811056",
+            "Longitude": "-73.9750004"
+          }
+        },
+        "Published": "2018-03-16T20:11:35Z",
+        "Title": "PokéBowl Station",
+        "Updated": "2018-03-16T20:11:35Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9811724,
+          40.7289046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10432641334896809538",
+        "Location": {
+          "Address": "188 Avenue A, New York, NY 10009, United States",
+          "Business Name": "Au Za'atar",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7289046",
+            "Longitude": "-73.9811724"
+          }
+        },
+        "Published": "2018-03-16T14:44:09Z",
+        "Title": "Au Za'atar",
+        "Updated": "2018-03-16T14:44:09Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0609413,
+          42.3515499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17611156220739729285",
+        "Location": {
+          "Address": "42 Beach St #101, Boston, MA 02111, United States",
+          "Business Name": "Sakura Sunakku",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3515499",
+            "Longitude": "-71.0609413"
+          }
+        },
+        "Published": "2018-03-11T21:50:10Z",
+        "Title": "Sakura Sunakku",
+        "Updated": "2018-03-11T21:50:10Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0614972,
+          42.3523917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18398323633287244513",
+        "Location": {
+          "Address": "1 Harrison Ave, Boston, MA 02111, United States",
+          "Business Name": "Kaze Shabu Shabu",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3523917",
+            "Longitude": "-71.0614972"
+          }
+        },
+        "Published": "2018-03-11T21:49:54Z",
+        "Title": "Kaze Shabu Shabu",
+        "Updated": "2018-03-11T21:49:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.1011111,
+          42.3438889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2717916311217630269",
+        "Location": {
+          "Address": "1381 Boylston St, Boston, MA 02215, United States",
+          "Business Name": "Sweet Cheeks Q",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3438889",
+            "Longitude": "-71.1011111"
+          }
+        },
+        "Published": "2018-03-11T21:49:45Z",
+        "Title": "Sweet Cheeks Q",
+        "Updated": "2018-03-11T21:49:45Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0759234,
+          42.3369796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12221852768954856409",
+        "Location": {
+          "Address": "1704 Washington St, Boston, MA 02118, United States",
+          "Business Name": "Toro",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3369796",
+            "Longitude": "-71.0759234"
+          }
+        },
+        "Published": "2018-03-11T21:49:31Z",
+        "Title": "Toro",
+        "Updated": "2018-03-11T21:49:31Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.6135660,
+          41.5879178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9956971328277782994",
+        "Location": {
+          "Address": "223 E Walnut St, Des Moines, IA 50309, United States",
+          "Business Name": "Black Sheep",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.5879178",
+            "Longitude": "-93.6135660"
+          }
+        },
+        "Published": "2018-03-11T21:16:14Z",
+        "Title": "Black Sheep",
+        "Updated": "2018-03-11T21:16:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.9686492,
+          33.7435705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=8958434211348826793",
+        "Location": {
+          "Address": "9200 Bolsa Ave, Westminster, CA 92683, United States",
+          "Business Name": "Asian Garden Mall",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "33.7435705",
+            "Longitude": "-117.9686492"
+          }
+        },
+        "Published": "2018-03-11T17:08:26Z",
+        "Title": "Phước Lộc Thọ Asian Garden Mall",
+        "Updated": "2018-03-11T17:08:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0602081,
+          42.3523984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17735691475644399736",
+        "Location": {
+          "Address": "83 Essex St, Boston, MA 02111, United States",
+          "Business Name": "Hei La Moon Restaurant (Food Opera)",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3523984",
+            "Longitude": "-71.0602081"
+          }
+        },
+        "Published": "2018-03-10T22:37:14Z",
+        "Title": "Hei La Moon",
+        "Updated": "2018-03-10T22:37:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0597461,
+          42.3511800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11593699815127774668",
+        "Location": {
+          "Address": "John F Fitzgerald Surface Rd &, Beach St, Boston, MA 02111, United States",
+          "Business Name": "Chinatown Gate",
+          "Geo Coordinates": {
+            "Latitude": "42.3511800",
+            "Longitude": "-71.0597461"
+          }
+        },
+        "Published": "2018-03-10T22:07:10Z",
+        "Title": "Chinatown Gate",
+        "Updated": "2018-03-10T22:07:10Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0606657,
+          42.3514638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1249986657208144931",
+        "Location": {
+          "Address": "52 Beach St, Boston, MA 02111, United States",
+          "Business Name": "Gourmet Dumpling House",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3514638",
+            "Longitude": "-71.0606657"
+          }
+        },
+        "Published": "2018-03-10T22:06:56Z",
+        "Title": "Gourmet Dumpling House",
+        "Updated": "2018-03-10T22:06:56Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0483917,
+          42.3534175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17549097964523743086",
+        "Location": {
+          "Address": "70 Sleeper St, Boston, MA 02210, United States",
+          "Business Name": "Outlook Kitchen",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3534175",
+            "Longitude": "-71.0483917"
+          }
+        },
+        "Published": "2018-03-10T21:55:05Z",
+        "Title": "Outlook Kitchen + Bar",
+        "Updated": "2018-03-10T21:55:05Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0471754,
+          42.3520361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=595375660169594733",
+        "Location": {
+          "Address": "50 Thomson Pl, Boston, MA 02210, United States",
+          "Business Name": "Trillium Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3520361",
+            "Longitude": "-71.0471754"
+          }
+        },
+        "Published": "2018-03-10T17:35:44Z",
+        "Title": "Trillium Brewing Company",
+        "Updated": "2018-03-10T17:35:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0707611,
+          42.3382861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=432660446102149933",
+        "Location": {
+          "Address": "700 Harrison Ave, Boston, MA 02118, United States",
+          "Business Name": "Estragon Tapas",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3382861",
+            "Longitude": "-71.0707611"
+          }
+        },
+        "Published": "2018-03-10T17:01:24Z",
+        "Title": "Estragon Tapas Bar",
+        "Updated": "2018-03-10T17:01:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.1212209,
+          42.3724293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5004440958195369363",
+        "Location": {
+          "Address": "98 Winthrop St, Cambridge, MA 02138, United States",
+          "Business Name": "The Red House Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3724293",
+            "Longitude": "-71.1212209"
+          }
+        },
+        "Published": "2018-03-10T16:55:29Z",
+        "Title": "The Red House",
+        "Updated": "2018-03-10T16:55:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.0885430,
+          26.3636080
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1321567926230271884",
+        "Location": {
+          "Address": "129 NW 13th St, Boca Raton, FL 33432, United States",
+          "Business Name": "32 Bubbles",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "26.3636080",
+            "Longitude": "-80.0885430"
+          }
+        },
+        "Published": "2018-03-10T16:03:18Z",
+        "Title": "32 Bubbles",
+        "Updated": "2018-03-10T16:03:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9377134,
+          40.7486354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14355586133822851762",
+        "Location": {
+          "Address": "28-30 Jackson Ave, Queens, NY 11101, United States",
+          "Business Name": "Murray's Cheese Bar",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7486354",
+            "Longitude": "-73.9377134"
+          }
+        },
+        "Published": "2018-03-04T05:30:10Z",
+        "Title": "Murray's Cheese Bar",
+        "Updated": "2018-03-04T05:30:10Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9862780,
+          40.6768428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5957708878149238534",
+        "Location": {
+          "Address": "295 3rd Ave, Brooklyn, NY 11215, United States",
+          "Business Name": "Baba's Pierogies",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.6768428",
+            "Longitude": "-73.9862780"
+          }
+        },
+        "Published": "2018-03-03T23:46:21Z",
+        "Title": "Baba's Pierogies",
+        "Updated": "2018-03-03T23:46:21Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4109830,
+          37.7770490
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11027651355758688359",
+        "Location": {
+          "Address": "1160 Howard St, San Francisco, CA 94103, United States",
+          "Business Name": "Vive la tarte",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7770490",
+            "Longitude": "-122.4109830"
+          }
+        },
+        "Published": "2018-03-03T19:57:14Z",
+        "Title": "Vive la tarte",
+        "Updated": "2018-03-03T19:57:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9838232,
+          40.5789173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15220466615514207378",
+        "Location": {
+          "Address": "1524 Neptune Ave, Brooklyn, NY 11224, United States",
+          "Business Name": "Totonno's",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.5789173",
+            "Longitude": "-73.9838232"
+          }
+        },
+        "Published": "2018-02-28T03:00:41Z",
+        "Title": "Totonno's Pizzeria Napolitana",
+        "Updated": "2018-02-28T03:00:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.9169419,
+          41.3029876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=8727798983627064826",
+        "Location": {
+          "Address": "157 Wooster St, New Haven, CT 06511, United States",
+          "Business Name": "Frank Pepe Pizzeria Napoletana",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.3029876",
+            "Longitude": "-72.9169419"
+          }
+        },
+        "Published": "2018-02-28T02:58:21Z",
+        "Title": "Frank Pepe Pizzeria Napoletana",
+        "Updated": "2018-02-28T02:58:21Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7352279,
+          35.6537375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7969213468898129262",
+        "Location": {
+          "Address": "Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 3 Chome−3−13 M2Kステージ3 1F",
+          "Business Name": "SAVOY Azabujuban",
+          "Country Code": "JP",
+          "Geo Coordinates": {
+            "Latitude": "35.6537375",
+            "Longitude": "139.7352279"
+          }
+        },
+        "Published": "2018-02-28T02:54:25Z",
+        "Title": "Savoy Azabu-juban",
+        "Updated": "2018-02-28T02:54:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.7006101,
+          10.7853944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10015069771370049082",
+        "Location": {
+          "Address": "17A Đ. Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Bánh Cuốn Hồng Hạnh",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7853944",
+            "Longitude": "106.7006101"
+          }
+        },
+        "Published": "2018-02-25T23:17:02Z",
+        "Title": "Banh Cuon Hong Hanh",
+        "Updated": "2018-02-25T23:17:02Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6960152,
+          10.7722394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9759994737229553647",
+        "Location": {
+          "Address": "42 Trương Định, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Quán cơm Đồng Nhân",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7722394",
+            "Longitude": "106.6960152"
+          }
+        },
+        "Published": "2018-02-25T22:49:49Z",
+        "Title": "Tàu Hủ Đá",
+        "Updated": "2018-02-25T22:49:49Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6930409,
+          10.7612910
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=195+C%C3%B4+Giang,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam&ftid=0x31752f114380bc57:0x15cf9650121087e1",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "10.7612910",
+            "Longitude": "106.6930409"
+          }
+        },
+        "Published": "2018-02-25T21:40:30Z",
+        "Title": "195 Cô Giang, Quận 1, Hồ Chí Minh, Vietnam",
+        "Updated": "2018-02-25T21:40:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6925320,
+          10.7706881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17655044038348101753",
+        "Location": {
+          "Address": "39 Đ. Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Bánh Mì 37",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7706881",
+            "Longitude": "106.6925320"
+          }
+        },
+        "Published": "2018-02-25T21:30:02Z",
+        "Title": "Banh Mi 37 Nguyen Trai",
+        "Updated": "2018-02-25T21:30:02Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.6137976,
+          40.7478975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=895787691869494594",
+        "Location": {
+          "Address": "1401 W Glen Ave Suite C, Peoria, IL 61614, United States",
+          "Business Name": "Friar Tuck Beverage",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7478975",
+            "Longitude": "-89.6137976"
+          }
+        },
+        "Published": "2017-11-14T15:05:10Z",
+        "Title": "Friar Tuck Beverage",
+        "Updated": "2017-11-14T15:05:10Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.8661677,
+          33.7482001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13526468016310831202",
+        "Location": {
+          "Address": "201 E 4th St Unit 127, Santa Ana, CA 92701, United States",
+          "Business Name": "Red Envelope",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "33.7482001",
+            "Longitude": "-117.8661677"
+          }
+        },
+        "Published": "2017-11-06T01:42:18Z",
+        "Title": "Red Envelope",
+        "Updated": "2017-11-06T01:42:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9824676,
+          40.7675924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1126157214836986026",
+        "Location": {
+          "Address": "1000 8th Ave, New York, NY 10019, United States",
+          "Business Name": "Chick'nCone - Fork Free Chicken & Waffles!",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7675924",
+            "Longitude": "-73.9824676"
+          }
+        },
+        "Published": "2017-11-01T23:21:06Z",
+        "Title": "Chick'nCone",
+        "Updated": "2017-11-01T23:21:06Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9899421,
+          43.7034217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10809371953851421735",
+        "Location": {
+          "Address": "3 Railroad Pl, North Creek, NY 12853, United States",
+          "Business Name": "Revolution Rail Co.",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "43.7034217",
+            "Longitude": "-73.9899421"
+          }
+        },
+        "Published": "2017-10-28T21:46:25Z",
+        "Title": "Revolution Rail Co.",
+        "Updated": "2017-10-28T21:46:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6282414,
+          41.8902340
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5724673519147367302",
+        "Location": {
+          "Address": "6 W Hubbard St, Chicago, IL 60654, United States",
+          "Business Name": "Imperial Lamian",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8902340",
+            "Longitude": "-87.6282414"
+          }
+        },
+        "Published": "2017-10-22T20:33:30Z",
+        "Title": "Imperial Lamian",
+        "Updated": "2017-10-22T20:33:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9561648,
+          40.7753804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=8919368324874755340",
+        "Location": {
+          "Address": "1431 3rd Ave, New York, NY 10028, United States",
+          "Business Name": "Flex Mussels",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7753804",
+            "Longitude": "-73.9561648"
+          }
+        },
+        "Published": "2017-10-22T15:51:18Z",
+        "Title": "Flex Mussels",
+        "Updated": "2017-10-22T15:51:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9996490,
+          40.7374687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1285461588334557547",
+        "Location": {
+          "Address": "154 W 13th St, New York, NY 10011, United States",
+          "Business Name": "Flex Mussels",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7374687",
+            "Longitude": "-73.9996490"
+          }
+        },
+        "Published": "2017-10-22T15:50:55Z",
+        "Title": "Flex Mussels",
+        "Updated": "2017-10-22T15:50:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2751606,
+          34.0282910
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4579503324522784327",
+        "Location": {
+          "Address": "2528 S Figueroa St, Los Angeles, CA 90007, United States",
+          "Business Name": "Dirt Dog Inc.",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "34.0282910",
+            "Longitude": "-118.2751606"
+          }
+        },
+        "Published": "2017-10-16T00:00:28Z",
+        "Title": "Dirt Dog Inc.",
+        "Updated": "2017-10-16T00:00:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.9592942,
+          33.7736600
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3018040260310978106",
+        "Location": {
+          "Address": "9930 Garden Grove Blvd, Garden Grove, CA 92844, United States",
+          "Business Name": "Sweet Rolled Tacos",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "33.7736600",
+            "Longitude": "-117.9592942"
+          }
+        },
+        "Published": "2017-10-14T22:12:54Z",
+        "Title": "Sweet Cup",
+        "Updated": "2017-10-14T22:12:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9884113,
+          40.7196523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10563187535011383879",
+        "Location": {
+          "Address": "124 Ludlow St, New York, NY 10002, United States",
+          "Business Name": "375° Chicken 'n Fries",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7196523",
+            "Longitude": "-73.9884113"
+          }
+        },
+        "Published": "2017-10-10T20:47:00Z",
+        "Title": "375° Thrice Cooked Fries",
+        "Updated": "2017-10-10T20:47:00Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0686010,
+          40.5932376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18303920168073166634",
+        "Location": {
+          "Address": "500 Linden St, Fort Collins, CO 80524, United States",
+          "Business Name": "New Belgium Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.5932376",
+            "Longitude": "-105.0686010"
+          }
+        },
+        "Published": "2017-10-07T19:17:30Z",
+        "Title": "New Belgium Brewing Company",
+        "Updated": "2017-10-07T19:17:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0631874,
+          40.5891693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7243860143556384036",
+        "Location": {
+          "Address": "800 E Lincoln Ave, Fort Collins, CO 80524, United States",
+          "Business Name": "Odell Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.5891693",
+            "Longitude": "-105.0631874"
+          }
+        },
+        "Published": "2017-10-07T19:17:11Z",
+        "Title": "Odell Brewing Company",
+        "Updated": "2017-10-07T19:17:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9973474,
+          39.7585303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2368493381186289275",
+        "Location": {
+          "Address": "2907 Huron St, Denver, CO 80202, United States",
+          "Business Name": "Santiago's Mexican Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7585303",
+            "Longitude": "-104.9973474"
+          }
+        },
+        "Published": "2017-10-07T04:35:53Z",
+        "Title": "Santiago's",
+        "Updated": "2017-10-07T04:35:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9950366,
+          39.7433616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6345236870457705423",
+        "Location": {
+          "Address": "700 14th St, Denver, CO 80202, United States",
+          "Business Name": "Colorado Convention Center",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7433616",
+            "Longitude": "-104.9950366"
+          }
+        },
+        "Published": "2017-10-06T18:11:59Z",
+        "Title": "The Colorado Convention Center",
+        "Updated": "2017-10-06T18:11:59Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9914168,
+          39.7561581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3039412030360314131",
+        "Location": {
+          "Address": "2210 Blake St #101b, Denver, CO 80205, United States",
+          "Business Name": "Ian's Pizza Denver",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7561581",
+            "Longitude": "-104.9914168"
+          }
+        },
+        "Published": "2017-10-06T00:38:51Z",
+        "Title": "Ian's Pizza Denver",
+        "Updated": "2017-10-06T00:38:51Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0340557,
+          39.7623860
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4685937728275956316",
+        "Location": {
+          "Address": "3475 W 32nd Ave, Denver, CO 80211, United States",
+          "Business Name": "Sweet Cow",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7623860",
+            "Longitude": "-105.0340557"
+          }
+        },
+        "Published": "2017-10-05T19:53:59Z",
+        "Title": "Sweet Cow",
+        "Updated": "2017-10-05T19:53:59Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9803204,
+          39.6824432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18411419599109413204",
+        "Location": {
+          "Address": "1882 S Pearl St, Denver, CO 80210, United States",
+          "Business Name": "Sweet Cow",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.6824432",
+            "Longitude": "-104.9803204"
+          }
+        },
+        "Published": "2017-10-05T19:53:16Z",
+        "Title": "Sweet Cow",
+        "Updated": "2017-10-05T19:53:16Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.8779800,
+          39.7527790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13642643995714855427",
+        "Location": {
+          "Address": "Stanley Market, 2501 Dallas St Suite 146, Aurora, CO 80010, United States",
+          "Business Name": "Sweet Cow",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7527790",
+            "Longitude": "-104.8779800"
+          }
+        },
+        "Published": "2017-10-05T19:52:44Z",
+        "Title": "Sweet Cow",
+        "Updated": "2017-10-05T19:52:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.7098936,
+          40.0730400
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15705875672054695000",
+        "Location": {
+          "Business Name": "Bar Pa Tea Bubble Tea Catering",
+          "Geo Coordinates": {
+            "Latitude": "40.0730400",
+            "Longitude": "-73.7098936"
+          }
+        },
+        "Published": "2017-10-04T01:24:15Z",
+        "Title": "Bar Pa Tea",
+        "Updated": "2017-10-04T01:24:15Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.1410070,
+          39.7632620
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2281784549823030028",
+        "Location": {
+          "Address": "3320 Youngfield St, Wheat Ridge, CO 80033, United States",
+          "Business Name": "Applejack Wine & Spirits",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7632620",
+            "Longitude": "-105.1410070"
+          }
+        },
+        "Published": "2017-10-02T17:43:08Z",
+        "Title": "Applejack Wine & Spirits",
+        "Updated": "2017-10-02T17:43:08Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9922652,
+          39.7393132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7680850679702847328",
+        "Location": {
+          "Address": "320 W Colfax Ave, Denver, CO 80204, United States",
+          "Business Name": "United States Mint",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7393132",
+            "Longitude": "-104.9922652"
+          }
+        },
+        "Published": "2017-10-02T17:29:12Z",
+        "Title": "United States Mint",
+        "Updated": "2017-10-02T17:29:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6403110,
+          41.8786897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6888358709350306057",
+        "Location": {
+          "Address": "225 S Canal St, Chicago, IL 60606, United States",
+          "Business Name": "Chicago Union Station",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8786897",
+            "Longitude": "-87.6403110"
+          }
+        },
+        "Published": "2017-10-02T17:24:25Z",
+        "Title": "Union Station",
+        "Updated": "2017-10-02T17:24:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2052116,
+          39.6655381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13130740313872088382",
+        "Location": {
+          "Address": "18300 W Alameda Pkwy, Morrison, CO 80465, United States",
+          "Business Name": "Red Rocks Park and Amphitheatre",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.6655381",
+            "Longitude": "-105.2052116"
+          }
+        },
+        "Published": "2017-09-29T15:06:22Z",
+        "Title": "Red Rocks Amphitheatre",
+        "Updated": "2017-09-29T15:06:22Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1133333,
+          51.4980556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12590640361951304425",
+        "Location": {
+          "Address": "6 Hercules Rd, London SE1 7DU, United Kingdom",
+          "Business Name": "Florentine Restaurant & Bar",
+          "Country Code": "GB",
+          "Geo Coordinates": {
+            "Latitude": "51.4980556",
+            "Longitude": "-0.1133333"
+          }
+        },
+        "Published": "2017-09-20T02:57:34Z",
+        "Title": "Florentine",
+        "Updated": "2017-09-20T02:57:34Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2338539,
+          39.7783749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=791+Pine+Ridge+Rd,+Golden,+CO+80403&ftid=0x876b9aa500ebe335:0x6aa05eb7af846cfb",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "39.7783749",
+            "Longitude": "-105.2338539"
+          }
+        },
+        "Published": "2017-09-16T23:41:58Z",
+        "Title": "791 Pine Ridge Rd, Golden, CO 80403",
+        "Updated": "2017-09-16T23:41:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0126730,
+          39.7610570
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=2127+W+31st+Ave,+Denver,+CO+80211&ftid=0x876c78939766f057:0x16749b3bcc00303b",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "39.7610570",
+            "Longitude": "-105.0126730"
+          }
+        },
+        "Published": "2017-09-16T23:37:22Z",
+        "Title": "2127 W 31st Ave, Denver, CO 80211",
+        "Updated": "2017-09-16T23:37:22Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.5776851,
+          45.5186402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6599632376253183724",
+        "Location": {
+          "Address": "172 Duluth Ave E, Montreal, Quebec H2W 1H3, Canada",
+          "Business Name": "Café Chat L'Heureux",
+          "Country Code": "CA",
+          "Geo Coordinates": {
+            "Latitude": "45.5186402",
+            "Longitude": "-73.5776851"
+          }
+        },
+        "Published": "2017-09-10T18:55:36Z",
+        "Title": "Café Chat L'Heureux",
+        "Updated": "2017-09-10T18:55:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.0706972,
+          39.7417583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17958615822093298505",
+        "Location": {
+          "Address": "6715 W Colfax Ave, Lakewood, CO 80214, United States",
+          "Business Name": "Casa Bonita",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.7417583",
+            "Longitude": "-105.0706972"
+          }
+        },
+        "Published": "2017-09-08T21:02:28Z",
+        "Title": "Casa Bonita",
+        "Updated": "2017-09-08T21:02:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          100.5398668,
+          13.7469431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1094159070170377883",
+        "Location": {
+          "Address": "เลขที่ 999/9 Rama I Rd, Pathum Wan, Bangkok 10330, Thailand",
+          "Business Name": "Din Tai Fung",
+          "Country Code": "TH",
+          "Geo Coordinates": {
+            "Latitude": "13.7469431",
+            "Longitude": "100.5398668"
+          }
+        },
+        "Published": "2017-08-19T10:08:24Z",
+        "Title": "Din Tai Fung",
+        "Updated": "2017-08-19T10:08:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.3181360,
+          41.5018560
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4985049915038882643",
+        "Location": {
+          "Address": "223 S Division St, Stuart, IA 50250, United States",
+          "Business Name": "Los Altos Mexican Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.5018560",
+            "Longitude": "-94.3181360"
+          }
+        },
+        "Published": "2017-07-16T15:47:51Z",
+        "Title": "Los Altos Mexican Restaurant",
+        "Updated": "2017-07-16T15:47:51Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4419688,
+          37.7863731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=37.786373,-122.441969",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7863731",
+            "Longitude": "-122.4419688"
+          }
+        },
+        "Published": "2017-07-06T00:50:38Z",
+        "Title": "37.786373,-122.441969",
+        "Updated": "2017-07-09T05:24:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          100.5728292,
+          13.7436147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17469776405147393468",
+        "Location": {
+          "Address": "163/6 Soi Sukhumvit 39, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+          "Business Name": "Shinsen Fish Market",
+          "Country Code": "TH",
+          "Geo Coordinates": {
+            "Latitude": "13.7436147",
+            "Longitude": "100.5728292"
+          }
+        },
+        "Published": "2017-07-09T00:05:49Z",
+        "Title": "Shinsen Fish Market",
+        "Updated": "2017-07-09T00:05:49Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4806996,
+          37.7805080
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6924344292273102319",
+        "Location": {
+          "Address": "5700 Geary Blvd, San Francisco, CA 94121, United States",
+          "Business Name": "Dragon Beaux",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7805080",
+            "Longitude": "-122.4806996"
+          }
+        },
+        "Published": "2017-07-07T16:59:42Z",
+        "Title": "Dragon Beaux",
+        "Updated": "2017-07-07T16:59:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4772316,
+          37.7431070
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5834471073856794820",
+        "Location": {
+          "Address": "1018 Taraval St, San Francisco, CA 94116, United States",
+          "Business Name": "Mr Bread Bakery",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7431070",
+            "Longitude": "-122.4772316"
+          }
+        },
+        "Published": "2017-07-06T14:13:49Z",
+        "Title": "Mr Bread Bakery",
+        "Updated": "2017-07-06T14:13:49Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4704359,
+          37.7700913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13813273526965676727",
+        "Location": {
+          "Address": "75 Hagiwara Tea Garden Dr, San Francisco, CA 94118, United States",
+          "Business Name": "Japanese Tea Garden",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7700913",
+            "Longitude": "-122.4704359"
+          }
+        },
+        "Published": "2017-07-06T14:13:35Z",
+        "Title": "Japanese Tea Garden",
+        "Updated": "2017-07-06T14:13:35Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4536699,
+          37.7861361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=3611+California+St,+San+Francisco,+CA+94118&ftid=0x80858731470ac2a3:0x60f8ea6ee108c136",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7861361",
+            "Longitude": "-122.4536699"
+          }
+        },
+        "Published": "2017-07-06T00:32:09Z",
+        "Title": "3611 California St, San Francisco, CA 94118",
+        "Updated": "2017-07-06T00:32:09Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4159213,
+          37.8083440
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10091266501162407930",
+        "Location": {
+          "Address": "2801 Taylor St, San Francisco, CA 94133, United States",
+          "Business Name": "The Crab Station",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8083440",
+            "Longitude": "-122.4159213"
+          }
+        },
+        "Published": "2017-07-05T19:02:30Z",
+        "Title": "Crab Station",
+        "Updated": "2017-07-05T19:02:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4149200,
+          37.8085060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4558778181429341294",
+        "Location": {
+          "Address": "160 Jefferson St, San Francisco, CA 94133, United States",
+          "Business Name": "Boudin Bakery",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8085060",
+            "Longitude": "-122.4149200"
+          }
+        },
+        "Published": "2017-07-05T19:02:15Z",
+        "Title": "Boudin Bakery & Cafe",
+        "Updated": "2017-07-05T19:02:15Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4386821,
+          37.7443973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=5285+Diamond+Heights+Blvd+%23319,+San+Francisco,+CA+94131&ftid=0x808f7e724e9bb229:0xfd7074fe1d5184fc",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7443973",
+            "Longitude": "-122.4386821"
+          }
+        },
+        "Published": "2017-07-05T03:50:34Z",
+        "Title": "5285 Diamond Heights Blvd #319, San Francisco, CA 94131",
+        "Updated": "2017-07-05T03:50:34Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5737157,
+          37.7302595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6401832519891036170",
+        "Location": {
+          "Address": "Glacier Point Rd, Yosemite Valley, CA 95389, United States",
+          "Business Name": "Glacier Point",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7302595",
+            "Longitude": "-119.5737157"
+          }
+        },
+        "Published": "2017-07-02T16:17:11Z",
+        "Title": "Glacier Point",
+        "Updated": "2017-07-02T16:17:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.3489603,
+          37.8804706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Lembert+Dome,+California&ftid=0x809659e838aae6cf:0x19b775eea9573c2a",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.8804706",
+            "Longitude": "-119.3489603"
+          }
+        },
+        "Published": "2017-07-02T16:06:18Z",
+        "Title": "Lembert Dome",
+        "Updated": "2017-07-02T16:06:37Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.6463888,
+          37.7166690
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Bridalveil+Fall,+California&ftid=0x8096edcba90ab6d9:0x5c69f427689e06a",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7166690",
+            "Longitude": "-119.6463888"
+          }
+        },
+        "Published": "2017-07-02T16:04:49Z",
+        "Title": "Bridalveil Fall, California 95389",
+        "Updated": "2017-07-02T16:04:49Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5969074,
+          37.7565957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14557265529947804088",
+        "Location": {
+          "Address": "Yosemite Village, CA 95389, United States",
+          "Business Name": "Yosemite Falls",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7565957",
+            "Longitude": "-119.5969074"
+          }
+        },
+        "Published": "2017-07-02T16:02:21Z",
+        "Title": "Yosemite Falls",
+        "Updated": "2017-07-02T16:02:21Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.5936038,
+          37.7455701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Yosemite+Valley,+CA+95389&ftid=0x8096f1fe38f263af:0x19213f2e54c9e26e",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7455701",
+            "Longitude": "-119.5936038"
+          }
+        },
+        "Published": "2017-07-02T16:01:09Z",
+        "Title": "Yosemite Valley, California",
+        "Updated": "2017-07-02T16:01:09Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.3741675,
+          37.8715753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17975905887523989034",
+        "Location": {
+          "Address": "California 95389, United States",
+          "Business Name": "Tuolumne Meadows Visitor Center",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8715753",
+            "Longitude": "-119.3741675"
+          }
+        },
+        "Published": "2017-07-02T15:59:07Z",
+        "Title": "Tuolumne Meadows Visitor Center",
+        "Updated": "2017-07-02T15:59:07Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4827612,
+          37.7838760
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5363583740445002614",
+        "Location": {
+          "Address": "200 23rd Ave, San Francisco, CA 94121, United States",
+          "Business Name": "Rumble Fish",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7838760",
+            "Longitude": "-122.4827612"
+          }
+        },
+        "Published": "2017-07-01T23:52:09Z",
+        "Title": "Rumble Fish",
+        "Updated": "2017-07-01T23:52:09Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3462222,
+          37.5799845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2330486284474708694",
+        "Location": {
+          "Address": "333 California Dr, Burlingame, CA 94010, United States",
+          "Business Name": "Steelhead Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.5799845",
+            "Longitude": "-122.3462222"
+          }
+        },
+        "Published": "2017-06-30T22:59:44Z",
+        "Title": "Steelhead Brewing Company",
+        "Updated": "2017-06-30T22:59:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3022759,
+          37.8812720
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2668772385100398272",
+        "Location": {
+          "Address": "1160 Sixth St, Berkeley, CA 94710, United States",
+          "Business Name": "Fieldwork Brewing Company - Berkeley",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8812720",
+            "Longitude": "-122.3022759"
+          }
+        },
+        "Published": "2017-06-30T22:59:31Z",
+        "Title": "Fieldwork Brewing Co.",
+        "Updated": "2017-06-30T22:59:31Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3093282,
+          37.7866197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=599485251861929047",
+        "Location": {
+          "Address": "2501 Monarch St, Alameda, CA 94501, United States",
+          "Business Name": "Faction Brewing",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7866197",
+            "Longitude": "-122.3093282"
+          }
+        },
+        "Published": "2017-06-30T22:59:27Z",
+        "Title": "Faction Brewing",
+        "Updated": "2017-06-30T22:59:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4031003,
+          37.7404135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4597196408956174899",
+        "Location": {
+          "Address": "50 Apparel Way, San Francisco, CA 94124, United States",
+          "Business Name": "Sequoia Sake",
+          "Geo Coordinates": {
+            "Latitude": "37.7404135",
+            "Longitude": "-122.4031003"
+          }
+        },
+        "Published": "2017-06-30T22:57:14Z",
+        "Title": "Sequoia Sake",
+        "Updated": "2017-06-30T22:57:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4130921,
+          37.6556992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15584072131172933140",
+        "Location": {
+          "Address": "415 Grand Ave, South San Francisco, CA 94080, United States",
+          "Business Name": "Armstrong Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.6556992",
+            "Longitude": "-122.4130921"
+          }
+        },
+        "Published": "2017-06-30T22:56:24Z",
+        "Title": "Armstrong Brewing Company",
+        "Updated": "2017-06-30T22:56:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3935644,
+          37.7230321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9976925751652248386",
+        "Location": {
+          "Address": "1439 Egbert Ave, San Francisco, CA 94124, United States",
+          "Business Name": "Seven Stills - Brewery & Distillery",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7230321",
+            "Longitude": "-122.3935644"
+          }
+        },
+        "Published": "2017-06-30T22:56:19Z",
+        "Title": "Seven Stills Brewery & Distillery",
+        "Updated": "2017-06-30T22:56:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3938436,
+          37.7956531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11802383162806712966",
+        "Location": {
+          "Address": "One, Ferry Building, San Francisco, CA 94111, United States",
+          "Business Name": "Fort Point Ferry Building",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7956531",
+            "Longitude": "-122.3938436"
+          }
+        },
+        "Published": "2017-06-30T22:56:15Z",
+        "Title": "Fort Point Beer Company",
+        "Updated": "2017-06-30T22:56:15Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4041407,
+          37.7282555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10833424579330429402",
+        "Location": {
+          "Address": "2636 San Bruno Ave, San Francisco, CA 94134, United States",
+          "Business Name": "Ferment Drink Repeat Brewing Co.",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7282555",
+            "Longitude": "-122.4041407"
+          }
+        },
+        "Published": "2017-06-30T22:56:01Z",
+        "Title": "Ferment Drink Repeat - FDR Brewery",
+        "Updated": "2017-06-30T22:56:01Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4648487,
+          37.8031053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2077516693078079630",
+        "Location": {
+          "Address": "644 Mason St, San Francisco, CA 94129, United States",
+          "Business Name": "Fort Point Beer Company Production Brewery",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8031053",
+            "Longitude": "-122.4648487"
+          }
+        },
+        "Published": "2017-06-30T22:55:55Z",
+        "Title": "Fort Point Beer Company",
+        "Updated": "2017-06-30T22:55:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3900581,
+          37.7516168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7997299609603147412",
+        "Location": {
+          "Address": "1050 26th St, San Francisco, CA 94107, United States",
+          "Business Name": "Harmonic Brewing",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7516168",
+            "Longitude": "-122.3900581"
+          }
+        },
+        "Published": "2017-06-30T22:55:48Z",
+        "Title": "Harmonic Brewing",
+        "Updated": "2017-06-30T22:55:48Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4235068,
+          37.8055723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3594140496369852825",
+        "Location": {
+          "Address": "3150 Polk St, San Francisco, CA 94109, United States",
+          "Business Name": "San Francisco Brewing Co.",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8055723",
+            "Longitude": "-122.4235068"
+          }
+        },
+        "Published": "2017-06-30T22:55:44Z",
+        "Title": "San Francisco Brewing Co. Beer Garden",
+        "Updated": "2017-06-30T22:55:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4824000,
+          37.7537663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12189647289840312477",
+        "Location": {
+          "Address": "1735 Noriega St, San Francisco, CA 94122, United States",
+          "Business Name": "Sunset Reservoir Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7537663",
+            "Longitude": "-122.4824000"
+          }
+        },
+        "Published": "2017-06-30T22:55:37Z",
+        "Title": "Sunset Reservoir Brewing Company",
+        "Updated": "2017-06-30T22:55:37Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4235068,
+          37.8055723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9164472344854460900",
+        "Location": {
+          "Address": "3150 Polk St, San Francisco, CA 94109, United States",
+          "Business Name": "San Francisco Brewing Co.",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8055723",
+            "Longitude": "-122.4235068"
+          }
+        },
+        "Published": "2017-06-30T22:55:18Z",
+        "Title": "San Francisco Brewing Co. Tap Room",
+        "Updated": "2017-06-30T22:55:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4091179,
+          37.7398597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3531682362775022989",
+        "Location": {
+          "Address": "1525 Cortland Ave, San Francisco, CA 94110, United States",
+          "Business Name": "Barebottle Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7398597",
+            "Longitude": "-122.4091179"
+          }
+        },
+        "Published": "2017-06-30T22:55:14Z",
+        "Title": "Barebottle Brewing Company",
+        "Updated": "2017-06-30T22:55:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3971189,
+          37.7764809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15998634157398080320",
+        "Location": {
+          "Address": "69 Bluxome St, San Francisco, CA 94107, United States",
+          "Business Name": "Local Brewing Co.",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7764809",
+            "Longitude": "-122.3971189"
+          }
+        },
+        "Published": "2017-06-30T22:55:10Z",
+        "Title": "Local Brewing Co.",
+        "Updated": "2017-06-30T22:55:10Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4194984,
+          37.7684875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14605528681038122483",
+        "Location": {
+          "Address": "280 14th St, San Francisco, CA 94103, United States",
+          "Business Name": "Standard Deviant Brewing",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7684875",
+            "Longitude": "-122.4194984"
+          }
+        },
+        "Published": "2017-06-30T22:55:01Z",
+        "Title": "Standard Deviant Brewing",
+        "Updated": "2017-06-30T22:55:01Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3969583,
+          37.7806806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2033563506125458092",
+        "Location": {
+          "Address": "544 Bryant St, San Francisco, CA 94107, United States",
+          "Business Name": "Black Hammer Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7806806",
+            "Longitude": "-122.3969583"
+          }
+        },
+        "Published": "2017-06-30T22:54:54Z",
+        "Title": "Black Hammer Brewing",
+        "Updated": "2017-06-30T22:54:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3934245,
+          37.7229805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15824472736764104202",
+        "Location": {
+          "Address": "1439 Egbert Ave unit a/b, San Francisco, CA 94124, United States",
+          "Business Name": "Laughing Monk Brewing",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7229805",
+            "Longitude": "-122.3934245"
+          }
+        },
+        "Published": "2017-06-30T22:53:58Z",
+        "Title": "Laughing Monk Brewing",
+        "Updated": "2017-06-30T22:53:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3808913,
+          37.7381870
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10908269163066843905",
+        "Location": {
+          "Address": "1195 Evans Ave, San Francisco, CA 94124, United States",
+          "Business Name": "Speakeasy Ales & Lagers",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7381870",
+            "Longitude": "-122.3808913"
+          }
+        },
+        "Published": "2017-06-30T22:52:36Z",
+        "Title": "Speakeasy Ales & Lagers",
+        "Updated": "2017-06-30T22:52:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3996207,
+          37.7854669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16117366048065422338",
+        "Location": {
+          "Address": "661 Howard St, San Francisco, CA 94103, United States",
+          "Business Name": "ThirstyBear Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7854669",
+            "Longitude": "-122.3996207"
+          }
+        },
+        "Published": "2017-06-30T22:51:42Z",
+        "Title": "ThirstyBear Brewing Company",
+        "Updated": "2017-06-30T22:51:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4460537,
+          37.7757115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10848342275631307644",
+        "Location": {
+          "Address": "1785 Fulton St, San Francisco, CA 94117, United States",
+          "Business Name": "Barrel Head Brewhouse",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7757115",
+            "Longitude": "-122.4460537"
+          }
+        },
+        "Published": "2017-06-30T22:51:11Z",
+        "Title": "Barrel Head Brewhouse",
+        "Updated": "2017-06-30T22:51:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.1772928,
+          37.7110797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1599049450635173377",
+        "Location": {
+          "Address": "2010 Williams St, San Leandro, CA 94577, United States",
+          "Business Name": "21st Amendment Brewery",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7110797",
+            "Longitude": "-122.1772928"
+          }
+        },
+        "Published": "2017-06-30T22:50:27Z",
+        "Title": "21st Amendment Brewery",
+        "Updated": "2017-06-30T22:50:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3924605,
+          37.7825245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11857111598973889515",
+        "Location": {
+          "Address": "563 2nd St, San Francisco, CA 94107, United States",
+          "Business Name": "21st Amendment Brewery & Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7825245",
+            "Longitude": "-122.3924605"
+          }
+        },
+        "Published": "2017-06-30T22:50:07Z",
+        "Title": "21st Amendment Brewery & Restaurant",
+        "Updated": "2017-06-30T22:50:07Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4010446,
+          37.7634526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10910794900346796466",
+        "Location": {
+          "Address": "1705 Mariposa St, San Francisco, CA 94107, United States",
+          "Business Name": "Anchor Brewing Company",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7634526",
+            "Longitude": "-122.4010446"
+          }
+        },
+        "Published": "2017-06-30T22:48:44Z",
+        "Title": "Anchor Brewers & Distillers",
+        "Updated": "2017-06-30T22:48:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4142237,
+          37.7600757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=458303093536902726",
+        "Location": {
+          "Address": "620 Treat Ave, San Francisco, CA 94110, United States",
+          "Business Name": "Southern Pacific Brewing",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7600757",
+            "Longitude": "-122.4142237"
+          }
+        },
+        "Published": "2017-06-30T22:46:52Z",
+        "Title": "Southern Pacific Brewing",
+        "Updated": "2017-06-30T22:46:52Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4451778,
+          37.7703753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17603668988289106272",
+        "Location": {
+          "Address": "1398 Haight St, San Francisco, CA 94117, United States",
+          "Business Name": "Magnolia Brewing - Haight",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7703753",
+            "Longitude": "-122.4451778"
+          }
+        },
+        "Published": "2017-06-30T22:45:48Z",
+        "Title": "Magnolia Gastropub and Brewery",
+        "Updated": "2017-06-30T22:45:48Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4067338,
+          37.7531060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17285962596569249272",
+        "Location": {
+          "Address": "2704 24th St, San Francisco, CA 94110, United States",
+          "Business Name": "Almanac Beer Taproom",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7531060",
+            "Longitude": "-122.4067338"
+          }
+        },
+        "Published": "2017-06-30T22:44:20Z",
+        "Title": "Almanac Beer Taproom",
+        "Updated": "2017-06-30T22:44:20Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4107242,
+          37.7771765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14429947149887692789",
+        "Location": {
+          "Address": "1150 Howard St, San Francisco, CA 94103, United States",
+          "Business Name": "Cellarmaker Brewing Co.",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7771765",
+            "Longitude": "-122.4107242"
+          }
+        },
+        "Published": "2017-06-30T22:42:18Z",
+        "Title": "Cellarmaker Brewing Co.",
+        "Updated": "2017-06-30T22:42:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -120.1520593,
+          38.0768923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=25115+Deborah+Dr,+Long+Barn,+CA+95335&ftid=0x809734c9eeb1fca9:0x5a38983b465b9540",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "38.0768923",
+            "Longitude": "-120.1520593"
+          }
+        },
+        "Published": "2017-06-30T20:02:35Z",
+        "Title": "25115 Deborah Dr, Long Barn, CA 95335",
+        "Updated": "2017-06-30T20:02:35Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          100.5521340,
+          13.7420987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16458538222166721833",
+        "Location": {
+          "Address": "JW Marriott Hotel 4 Sukhumvit Road, Khlong Toei, Bangkok 10110, Thailand",
+          "Business Name": "Bangkok Baking Company",
+          "Country Code": "TH",
+          "Geo Coordinates": {
+            "Latitude": "13.7420987",
+            "Longitude": "100.5521340"
+          }
+        },
+        "Published": "2017-06-25T17:06:50Z",
+        "Title": "Man Ho",
+        "Updated": "2017-06-25T17:06:50Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.3575059,
+          15.8998953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13699230793045010956",
+        "Location": {
+          "Address": "93 Lạc Long Quân, Cẩm An, Hội An, Quảng Nam, Vietnam",
+          "Business Name": "An Gia Cottage",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "15.8998953",
+            "Longitude": "108.3575059"
+          }
+        },
+        "Published": "2017-04-12T18:18:56Z",
+        "Title": "An Gia Cottage",
+        "Updated": "2017-04-12T18:18:56Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.3412780,
+          15.9116115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15970807001437242518",
+        "Location": {
+          "Address": "87 Nguyễn Phan Vinh, Cẩm An, Hội An, Quảng Nam, Vietnam",
+          "Business Name": "Weavers An Bang",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "15.9116115",
+            "Longitude": "108.3412780"
+          }
+        },
+        "Published": "2017-04-12T18:17:09Z",
+        "Title": "The Kebab Shack",
+        "Updated": "2017-04-12T18:17:09Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8521641,
+          21.0347831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14034039936956699589",
+        "Location": {
+          "Address": "13 P. Hàng Giầy, Hàng Buồm, Hà Noi, Hoàn Kiếm, Vietnam",
+          "Business Name": "Beer Corner",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "21.0347831",
+            "Longitude": "105.8521641"
+          }
+        },
+        "Published": "2017-04-12T17:08:30Z",
+        "Title": "Beer Corner",
+        "Updated": "2017-04-12T17:08:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6816069,
+          10.7701935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6451965279201449399",
+        "Location": {
+          "Address": "53 Đ. Cao Thắng, Phường 3, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Bánh Mì Hòa Mã",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7701935",
+            "Longitude": "106.6816069"
+          }
+        },
+        "Published": "2017-04-12T05:24:36Z",
+        "Title": "Banh Mi Hoa Ma",
+        "Updated": "2017-04-12T05:24:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6917290,
+          10.7709871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10639877496924174934",
+        "Location": {
+          "Address": "54 Nguyễn Văn Tráng, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Bánh Mì Hồng Hoa",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7709871",
+            "Longitude": "106.6917290"
+          }
+        },
+        "Published": "2017-04-12T05:21:12Z",
+        "Title": "Bánh Mì Hồng Hoa",
+        "Updated": "2017-04-12T05:21:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.8538864,
+          21.0180283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9108413969528951015",
+        "Location": {
+          "Address": "24 P. Lê Văn Hưu, Phan Chu Trinh, Hai Bà Trưng, Hà Nội, Vietnam",
+          "Business Name": "Bún chả Hương Liên",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "21.0180283",
+            "Longitude": "105.8538864"
+          }
+        },
+        "Published": "2017-04-12T05:10:27Z",
+        "Title": "Bún chả Hương Liên",
+        "Updated": "2017-04-12T05:10:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6878468,
+          10.7652813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3216647131921782128",
+        "Location": {
+          "Address": "219 Đ. Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Sul Bingsu (Kem Han Quoc)",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7652813",
+            "Longitude": "106.6878468"
+          }
+        },
+        "Published": "2017-04-12T05:02:21Z",
+        "Title": "Sul Bingsu (Kem Han Quoc)",
+        "Updated": "2017-04-12T05:02:21Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6762899,
+          10.7708700
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7724269491656263134",
+        "Location": {
+          "Address": "650/4/29D Điện Biên Phủ, Phường 11, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+          "Business Name": "Quán Ốc Như",
+          "Country Code": "VN",
+          "Geo Coordinates": {
+            "Latitude": "10.7708700",
+            "Longitude": "106.6762899"
+          }
+        },
+        "Published": "2017-04-10T04:18:42Z",
+        "Title": "Quán Ốc Như",
+        "Updated": "2017-04-10T04:18:42Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.0547058,
+          18.4521346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15882738642176263939",
+        "Location": {
+          "Address": "1966 McLeary Ave, San Juan, 00911, Puerto Rico",
+          "Business Name": "Kasalta",
+          "Country Code": "PR",
+          "Geo Coordinates": {
+            "Latitude": "18.4521346",
+            "Longitude": "-66.0547058"
+          }
+        },
+        "Published": "2017-03-30T03:23:09Z",
+        "Title": "Kasalta",
+        "Updated": "2017-03-30T03:23:09Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.0228914,
+          18.4428139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6138478027786160689",
+        "Location": {
+          "Address": "5451 Av. Isla Verde, Carolina, 00979, Puerto Rico",
+          "Business Name": "Borinquen Beach Inn",
+          "Country Code": "PR",
+          "Geo Coordinates": {
+            "Latitude": "18.4428139",
+            "Longitude": "-66.0228914"
+          }
+        },
+        "Published": "2017-03-24T19:28:43Z",
+        "Title": "Borinquen Beach Inn Hotel",
+        "Updated": "2017-03-24T19:28:43Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.0261392,
+          18.4416709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=7+Calle+Marginal+Villamar,+Carolina,+00979,+Puerto+Rico&ftid=0x8c0365e11878e737:0xcc7b2ed18521d936",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "18.4416709",
+            "Longitude": "-66.0261392"
+          }
+        },
+        "Published": "2017-03-24T19:28:14Z",
+        "Title": "7 Calle Marginal Villamar, Carolina, 00979, Puerto Rico",
+        "Updated": "2017-03-24T19:28:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.6515858,
+          41.6025628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Harmon+Fine+Arts+Center,+2505+Carpenter+Ave,+Des+Moines,+IA+50311&ftid=0x87ee99381ad13ed5:0x6ad9b6e25ab13571",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.6025628",
+            "Longitude": "-93.6515858"
+          }
+        },
+        "Published": "2016-11-20T17:33:38Z",
+        "Title": "Harmon Fine Arts Center, 2505 Carpenter Avenue, Des Moines, IA 50311",
+        "Updated": "2016-11-20T17:33:38Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.7527900,
+          41.5961100
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11265179596357802872",
+        "Location": {
+          "Address": "1540B VALLEY WEST DR #1 AND 3, West Des Moines, IA 50266, United States",
+          "Business Name": "Men's Wearhouse",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.5961100",
+            "Longitude": "-93.7527900"
+          }
+        },
+        "Published": "2015-09-02T17:35:14Z",
+        "Title": "Men's Wearhouse",
+        "Updated": "2015-09-02T17:35:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.6835740,
+          41.6360690
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3063785893114094157",
+        "Location": {
+          "Address": "4800 NW Aurora Ave., Des Moines, IA 50310, United States",
+          "Business Name": "Herbert Hoover High School",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.6360690",
+            "Longitude": "-93.6835740"
+          }
+        },
+        "Published": "2015-06-16T22:38:23Z",
+        "Title": "Herbert Hoover High School",
+        "Updated": "2015-06-16T22:38:23Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.2715823,
+          44.9761158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16450113135216292225",
+        "Location": {
+          "Address": "710 S Marquette Ave, Minneapolis, MN 55402, United States",
+          "Business Name": "The Marquette Hotel, Curio Collection by Hilton",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "44.9761158",
+            "Longitude": "-93.2715823"
+          }
+        },
+        "Published": "2015-05-23T17:30:45Z",
+        "Title": "The Marquette Hotel",
+        "Updated": "2015-05-23T17:30:45Z"
+      },
+      "type": "Feature"
+    }
+  ]
+}

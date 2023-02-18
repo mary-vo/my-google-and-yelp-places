@@ -1,0 +1,327 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -93.8605396,
+          41.5961534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "605 SE Prairie Park Ln, Waukee, IA 50263, USA",
+        "name": "Home"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.62860599999999,
+          41.5874544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "801 Grand Ave, Des Moines, IA 50309, USA",
+        "name": "Work"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6913575,
+          10.7662024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Tau hu nong, 169 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam",
+        "name": "Tau hu"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.49007809999999,
+          33.8942403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Low-key Poke, 11860 Magnolia Ave, Riverside, CA 92503, United States",
+        "name": "Hot cheetos sushi burrito"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0012318,
+          40.7474061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "El Quinto Pino, 401 W 24th St, New York, NY 10011, United States",
+        "name": "Tapas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.01486899999999,
+          40.70803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Clinton Hall, 90 Washington St, New York, NY 10006, United States",
+        "name": "Grilled cheese donut"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.34368429999999,
+          28.568303099999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Domu, East End Market, 3201 Corrine Dr Suite 100, Orlando, FL 32803, United States",
+        "name": "Boba mimosa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.1212342,
+          42.3723704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "The Red House, 98 Winthrop St, Cambridge, MA 02138, United States",
+        "name": "Oyster"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.8664136,
+          33.7481934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Red Envelope, 201 E 4th St #127, Santa Ana, CA 92701, United States",
+        "name": "Lobster in pho"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6282866,
+          41.890301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Imperial Lamian, 6 W Hubbard St, Chicago, IL 60654, United States",
+        "name": "Pumpkin shape dumpling"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.60129189999999,
+          45.5250919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "5608 Rue Saint-Urbain, Montréal, QC H2T 2X3, Canada",
+        "name": "Airbnb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.00363469999999,
+          40.731713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Raviolo, 57 7th Ave S, New York, NY 10014, United States",
+        "name": "Italian Dim sum style"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.69591419999999,
+          10.7721657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Tàu Hủ Đá, 42 Trương Định, Bến Thành, Quận 1 Bến Thành Quận 1 Hồ Chí Minh, Phường Bến Thành, Quận 1, Hồ Chí Minh, Vietnam",
+        "name": "Tau hu da"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6817348,
+          10.7702949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Banh Mi Hoa Ma, 53 Cao Thắng, Phường 3, Quận 3, Hồ Chí Minh, Vietnam",
+        "name": "Op la"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0245565,
+          38.9417246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Himitsu, 828 Upshur St NW, Washington, DC 20011, United States",
+        "name": "Karaage"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6905748,
+          10.7701567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "121, 121/35 Lê Thị Riêng, Quận 1, Hồ Chí Minh, Vietnam",
+        "name": "Airbnb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.25615619999999,
+          34.0468088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Soi 7, 518 W 7th St, Los Angeles, CA 90014, United States",
+        "name": "Thai street food"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.33200509999999,
+          15.8784853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Bánh Mì Phượng, 2B Phan Châu Trinh, Cẩm Châu, Hội An, Quảng Nam 560000, Vietnam",
+        "name": "Anthony Bourdain"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6930409,
+          10.761291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "195 Cô Giang, Quận 1, Hồ Chí Minh, Vietnam",
+        "name": "Bun thit nuong"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.700476,
+          10.785243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Banh Cuon Hong Hanh, 17 Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
+        "name": "Banh da xuc hen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.3054652,
+          7.763321599999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Promthep View Point, Rawai, Mueang Phuket District, Phuket 83100, Thailand",
+        "name": "Viewpoint"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7590527,
+          38.2493135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "META, 425 W Chestnut St, Louisville, KY 40202, United States",
+        "name": "Jello shots bourbon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          98.30237199999999,
+          7.7973557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Karon View Point, 4233, Karon, Mueang Phuket District, Phuket 83100, Thailand",
+        "name": "Viewpoint"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
