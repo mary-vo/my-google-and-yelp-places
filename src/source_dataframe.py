@@ -1,3 +1,10 @@
+"""
+This program reads in all the data files (6 files in total). 
+The goal is to load each type of file into a single dateframe.
+For example, all CSV data will be in a single dataframe; 
+all html records will be in its own dataframe.
+"""
+
 import os
 import pandas as pd
 import json
@@ -14,11 +21,11 @@ def read_yelp_html_files():
         # print(len(data))
         df_list.append(data[0])
     df = pd.concat(df_list)
-    print(df)
+    # print(df)
         # final_dataframe = pd.concat(data)
     # dataframe = pd.concat(df_list)
     # print(dataframe)
-    df.to_excel("combined_yelp_data.xlsx", index=False)
+    df.to_excel("combined_yelp_data1.xlsx", index=False)
     return df
 
 google_path = os.path.join('..','data_files','google\\')
@@ -29,8 +36,8 @@ def read_google_csv_files():
         if file.endswith(".csv"):
             data = pd.read_csv(google_path + file)
             df_list.append(data)
-        df = pd.concat(df_list)
-        df.to_excel("combined_google_csv_data.xlsx", index=False)
+    df = pd.concat(df_list)
+    df.to_excel("combined_google_csv_data1.xlsx", index=False)
     return df
         
 def read_google_json_files():
@@ -38,15 +45,11 @@ def read_google_json_files():
     for file in os.listdir(google_path):
         if file.endswith(".json"):
             with open(os.path.join(google_path,file), "r", encoding='utf-8') as f:
-                print(file)
                 data = json.load(f)
                 df_nested_list = pd.json_normalize(data,record_path=["features"])
                 df_list.append(df_nested_list)
-            df = pd.concat(df_list)
-            df.to_excel("combined_google_json_data.xlsx", index=False)
+    df = pd.concat(df_list)
+    df.to_excel("combined_google_json_data1.xlsx", index=False)
+    return df    
 
-
-read_yelp_html_files()
-read_google_csv_files()
-read_google_json_files()
 
