@@ -1,5 +1,5 @@
 # Background
-The purpose of this project is to clean, combine, and display Google and Yelp data that I have saved through the years. The idea is to store the data in a more tabular format for ease of readibility and filtering by location and notes.
+The purpose of this project is to clean, combine, and display Google and Yelp data that I have saved through the years. The idea is to store the data in a more tabular format for ease of readability and filtering by location and notes.
 
 Over the years, I have created quite a list of places on both platforms. However, this "list" is not easily sortable. See examples below, evidenced by the fact that I'd have to select each heart to view personal notes (if any available):
 
