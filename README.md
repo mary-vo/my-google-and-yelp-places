@@ -8,7 +8,7 @@ Over the years, I have created quite a list of places on both platforms. However
 
 The notes sometimes offer handy information such as: dishes to try, price, happy hour, etc. It varies by place. As mentioned previously, these places and notes are stored across two platforms (Google and Yelp). It would be ideal to have it in a singular place.
 
-For a better idea of the project plan that details steps taken to complete the project, view [Project Plan Diagram](Project plan diagram.png)
+For a better idea of the project plan that details steps taken to complete the project, view [Project Plan Diagram](/Project%20plan%20diagram.png).
 
 # Usage
 Follow these steps to run the program on your local machine:
