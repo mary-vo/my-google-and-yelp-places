@@ -6,7 +6,7 @@ Over the years, I have created quite a list of places on both platforms. However
 ![image](https://user-images.githubusercontent.com/91100579/221379047-9c043274-21b4-4610-b61e-dcaa60215449.png)
 ![image](https://user-images.githubusercontent.com/91100579/221379020-0fc90bb4-bbb8-4e89-ad53-60e4f95e6f17.png)
 
-The notes sometimes offer handy information such as: dishes to try, price, happy hour, etc. It varies by place. As mentioned previously, these places and notes are stored across two platforms (Google and Yelp). It would be ideal to have it in a singular place.
+The notes sometimes offer handy information such as: dishes to try, price, happy hour, etc. It varies by place. As mentioned previously, these places and notes are stored across two platforms (Google and Yelp). It would be ideal to have it in a single location.
 
 For a better idea of the project plan that details steps taken to complete the project, view [Project Plan Diagram](/Project%20plan%20diagram.png).
 
