@@ -3,7 +3,6 @@ Take result df from read_google_csv_file()
 and add city, state, country column
 """
 import requests
-from bs4 import BeautifulSoup
 import source_dataframe
 import json
 

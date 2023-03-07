@@ -46,5 +46,5 @@ def read_google_json_files():
 
 
 # read_yelp_html_files()
-read_google_csv_files()
+# read_google_csv_files()
 # read_google_json_files()
