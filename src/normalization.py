@@ -17,7 +17,7 @@ def google_csv_normalized_df(csv_dataframe):
     url_string = 'https://maps.googleapis.com/maps/api/place/details/json?'
     for row in csv_dataframe.index:
         # print(csv_dataframe['Title'][row],csv_dataframe['Note'][row])
-        params = {'cid':csv_dataframe['cid'][row], 'key':'AIzaSyCwpEZPccfcl8cWWlfsGCauLY8s04bMy7Q'}
+        params = {'cid':csv_dataframe['cid'][row], 'key':''}
         r = requests.get(url = url_string, params=params)
 
         response_dict = json.loads(r.text)
