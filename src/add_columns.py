@@ -21,7 +21,7 @@ def google_csv_add_col_df(google_csv_df):
     url_string = 'https://maps.googleapis.com/maps/api/place/details/json?'
     for row in google_csv_df.index:
         # print(google_csv_df['Title'][row],google_csv_df['Note'][row])
-        params = {'cid':google_csv_df['cid'][row], 'key':'AIzaSyCwpEZPccfcl8cWWlfsGCauLY8s04bMy7Q'}
+        params = {'cid':google_csv_df['cid'][row], 'key':}
         r = requests.get(url = url_string, params=params)
         # print(row)
         response_dict = json.loads(r.text)
