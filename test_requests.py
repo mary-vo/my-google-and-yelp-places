@@ -1,13 +1,16 @@
 """
-Take result df from read_google_csv_file()
-and add city, state, country column
 """
 import requests
+from bs4 import BeautifulSoup
 import source_dataframe
 import json
 
 csv_dataframe = source_dataframe.read_google_csv_files()
 
+
+url_string = 'https://maps.googleapis.com/maps/api/place/details/json?'
+# # cid_list = csv_dataframe.cid
+# # print(cid_list)
 
 def google_csv_normalized_df(csv_dataframe):
     csv_dataframe['City'] =''
@@ -17,7 +20,7 @@ def google_csv_normalized_df(csv_dataframe):
     url_string = 'https://maps.googleapis.com/maps/api/place/details/json?'
     for row in csv_dataframe.index:
         # print(csv_dataframe['Title'][row],csv_dataframe['Note'][row])
-        params = {'cid':csv_dataframe['cid'][row], 'key':''}
+        params = {'cid':csv_dataframe['cid'][row], 'key':'AIzaSyCwpEZPccfcl8cWWlfsGCauLY8s04bMy7Q'}
         r = requests.get(url = url_string, params=params)
 
         response_dict = json.loads(r.text)
@@ -34,5 +37,5 @@ def google_csv_normalized_df(csv_dataframe):
             if "country" in type["types"]:
             #     # print(f"Country:{type['long_name']}")
                 csv_dataframe.loc[row,'Country']=type['long_name']
-    return csv_dataframe 
+    return csv_dataframe
 
