@@ -19,7 +19,7 @@ def main():
     # google_csv_remove_null.to_excel("google_csv_remove_null.xlsx", index=False)
 
     """Pass df into google_csv_add_col_df() to return
-    a dataframe with City, State, and Country columns"""
+    a dataframe with City, State, and Cou.ntry columns"""
     # print("Creating google csv with additional columns...")
     google_csv_cols_df = google_csv_add_col_df(google_csv_remove_null)
     google_csv_cols_df.to_excel('google_csv_all_cols.xlsx', index=False)

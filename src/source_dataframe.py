@@ -10,7 +10,7 @@ import pandas as pd
 import json
 
 def read_yelp_html_files():
-    yelp_path = os.path.join('..','data_files','yelp\\')
+    yelp_path = os.path.join('..','data-files','yelp\\')
     dir = os.listdir(yelp_path)
     df_list=[]
     for i in range(len(dir)):
@@ -20,7 +20,7 @@ def read_yelp_html_files():
     # df.to_excel("combined_yelp_data.xlsx", index=False)
     return df
 
-google_path = os.path.join('..','data_files','google\\')
+google_path = os.path.join('..','data-files','google\\')
 
 def read_google_csv_files():
     df_list=[]
