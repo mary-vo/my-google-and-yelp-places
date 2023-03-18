@@ -13,8 +13,10 @@ For a better idea of the project plan that details steps taken to complete the p
 # Usage
 Follow these steps to run the program on your local machine:
 * Create and activate a virtual environment
-  1. In terminal, navigate to the desired directory where you want the virtual environment created
-  2. `python -m venv capstone_maryvo`
-  3. `source capstone_maryvo/Scripts/activate`
-* `pip install requirements.txt`
-* run program (update later when I have a final program)
+  1. In terminal, type: `python -m venv venv`
+  2. Activate the virtual environment, commands vary based on terminal:
+    * bash: `source venv/Scripts/activate`
+    * powershell: `.\venv\Scripts\activate`
+    * command prompt: `venv\Scripts\activate`
+* `pip install -r requirements.txt`
+* In the terminal, run `python main.py`
