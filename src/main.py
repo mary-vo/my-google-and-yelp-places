@@ -37,9 +37,9 @@ def main():
     # yelp_html_cols_df.to_excel('yelp_html_all_cols.xlsx', index=False)
 
     """Append the three dataframes"""
-    df_concat = pd.concat([google_csv_cols_df, google_json_cols_df, yelp_html_cols_df], ignore_index=True)
-    print(df_concat)
-    df_concat.to_excel('concat.xlsx', index=False)
+    final_dataframe = pd.concat([google_csv_cols_df, google_json_cols_df, yelp_html_cols_df], ignore_index=True)
+    # print(final_dataframe)
+    final_dataframe.to_excel('concat.xlsx', index=False)
 
 
 
