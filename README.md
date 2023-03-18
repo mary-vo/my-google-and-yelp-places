@@ -18,5 +18,5 @@ Follow these steps to run the program on your local machine:
     * bash: `source venv/Scripts/activate`
     * powershell: `.\venv\Scripts\activate`
     * command prompt: `venv\Scripts\activate`
-* `pip install -r requirements.txt`
-* In the terminal, run `python main.py`
+* While in the root directory, run `pip install -r requirements.txt`
+* In the terminal, cd to `src` > run `python main.py`

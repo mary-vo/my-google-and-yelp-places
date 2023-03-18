@@ -22,19 +22,19 @@ def main():
     a dataframe with City, State, and Cou.ntry columns"""
     # print("Creating google csv with additional columns...")
     google_csv_cols_df = google_csv_add_col_df(google_csv_remove_null)
-    google_csv_cols_df.to_excel('google_csv_all_cols.xlsx', index=False)
+    # google_csv_cols_df.to_excel('google_csv_all_cols.xlsx', index=False)
 
     """Pass df into google_json_add_col_df() to return a
     dataframe with City, State, and Country columns"""
     # print("Creating google json with additional columns...")
     google_json_cols_df = google_json_add_col_df(google_json_remove_null)
-    google_json_cols_df.to_excel('google_json_all_cols.xlsx', index=False)
+    # google_json_cols_df.to_excel('google_json_all_cols.xlsx', index=False)
 
     """Pass df into yelp_html_add_col_df() to rreturn a 
     dataframe with City, State, and Country columns"""
     print("Creating yelp html with additional columns...")
     yelp_html_cols_df = yelp_html_add_col_df(yelp_dataframe)
-    yelp_html_cols_df.to_excel('yelp_html_all_cols.xlsx', index=False)
+    # yelp_html_cols_df.to_excel('yelp_html_all_cols.xlsx', index=False)
 
     """Append the three dataframes"""
     df_concat = pd.concat([google_csv_cols_df, google_json_cols_df, yelp_html_cols_df], ignore_index=True)
