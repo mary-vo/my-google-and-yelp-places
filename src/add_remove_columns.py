@@ -21,7 +21,7 @@ def google_csv_add_col_df(google_csv_df):
     url_string = 'https://maps.googleapis.com/maps/api/place/details/json?'
     for row in google_csv_df.index:
         # print(google_csv_df['Title'][row],google_csv_df['Note'][row])
-        params = {'cid':google_csv_df['cid'][row], 'key':'AIzaSyCwpEZPccfcl8cWWlfsGCauLY8s04bMy7Q'}
+        params = {'cid':google_csv_df['cid'][row], 'key':''}
         r = requests.get(url = url_string, params=params)
         # print(row)
         response_dict = json.loads(r.text)
@@ -50,7 +50,7 @@ def google_json_add_col_df(google_json_df):
     google_json_df['Note'] = ''
     url_string = 'https://maps.googleapis.com/maps/api/geocode/json?'
     for row in google_json_df.index:
-        params = {'latlng':google_json_df['latlng'][row], 'key':'AIzaSyCwpEZPccfcl8cWWlfsGCauLY8s04bMy7Q'}
+        params = {'latlng':google_json_df['latlng'][row], 'key':''}
         r = requests.get(url = url_string, params=params)
         response_dict = json.loads(r.text)
         if response_dict["status"] != "NOT_FOUND" and response_dict["status"] != "INVALID_REQUEST":
@@ -67,7 +67,7 @@ def google_json_add_col_df(google_json_df):
 
 
 def yelp_html_add_col_df(yelp_html_df):
-    headers = {"Accept": "*/*", "Authorization": "Bearer ZaHj8pnRb-ZR7uouhmh7VBnNhHiDUxhTcL4_tYaPNJkxsCjmbE5HkX31ThpF5d_wik1aZ5mhOON8rMvIzVuc7Ezuq4DJo0wMY1Tj1Rax5-z4X8ruzGZFsgGN4lM7X3Yx"}
+    headers = {"Accept": "*/*", "Authorization": "Bearer "}
     yelp_html_df['City']=''
     yelp_html_df['State'] =''
     yelp_html_df['Country'] =''
