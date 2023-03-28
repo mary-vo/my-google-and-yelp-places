@@ -36,10 +36,15 @@ Outcome: A single output file that is used for data analysis. Interpretation to 
 
 # Features Used
 1. Read data in
-2. Mannipulate and clean your data
+    * Read in HTML, json, and csv files + json file is parsed, returned as dictionary, and flattened into a flat table as seen here: [source_dataframe.py](src/source_dataframe.py)
+    * Use Google Maps API and Yelp API as seen here: [add_remove_columns.py](src/add_remove_columns.py)
+2. Manipulate and clean your data
+    * Remove null records as seen here: [remove_null_places.py](src/remove_null_places.py)
+    * Add and drop columns as seen here: [add_remove_columns.py](src/add_remove_columns.py)
 3. Analyze your data
 4. Visualize your data
 5. Interpret your data
+    * fkldjgdfg
 
 # Data Analysis
 ### About the Data
