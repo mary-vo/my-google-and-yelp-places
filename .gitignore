@@ -130,3 +130,5 @@ dmypy.json
 
 # program files
 *.xlsx
+*.txt
+*.csv

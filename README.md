@@ -34,7 +34,16 @@ Purpose: This is where all the above programs are combined to return a single ou
 
 Outcome: A single output file that is used for data analysis. Interpretation to follow below. 
 
+# Features Used
+1. Read data in
+2. Mannipulate and clean your data
+3. Analyze your data
+4. Visualize your data
+5. Interpret your data
+
 # Data Analysis
+### About the Data
+
 
 # Usage
 Follow these steps to run the program on your local machine:
@@ -52,6 +61,7 @@ Follow these steps to run the program on your local machine:
       * command prompt: `venv\Scripts\activate`
 * While in the root directory, run `pip install -r requirements.txt`
 * Add API Keys in [add_remove_columns.py](src/add_remove_columns.py), on lines: 24, 53, 70 (see text file provided via Slack?)
-* In the terminal, cd to `src` > run `python main.py`. Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
+<!-- * In the terminal, cd to `src` > run `python main.py`. Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
+  * Line 19, 31, and 43: df = pd.concat(df_list,ignore_index=True)**.head(10)** -->
+* Run [analysis.ipynb](src/analysis.ipynb).  Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
   * Line 19, 31, and 43: df = pd.concat(df_list,ignore_index=True)**.head(10)**
-* 
