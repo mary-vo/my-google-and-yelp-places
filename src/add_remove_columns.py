@@ -8,8 +8,8 @@ to set up for final union
 import requests
 import json
 # import pandas as pd
-# from source_dataframe import read_google_csv_files, read_google_json_files, read_yelp_html_files
-# from remove_null_places import remove_null_name_rows
+from source_dataframe import read_google_csv_files, read_google_json_files, read_yelp_html_files
+from remove_null_places import remove_null_name_rows
 
 
 def google_csv_add_col_df(google_csv_df):
@@ -96,13 +96,12 @@ def yelp_html_add_col_df(yelp_html_df):
 
 # csv_dataframe = remove_null_name_rows(read_google_csv_files(), 'Title')
 # csv_result = google_csv_add_col_df(csv_dataframe)
-# print(csv_result)
-# csv_result.to_excel('csv_dataframe_return.xlsx',index=False)
+# csv_result.to_excel('google_csv_dataframe.xlsx',index=False)
 
 # json_dataframe = remove_null_name_rows(read_google_json_files(), 'properties.Location.Business Name')
-# # print(json_dataframe['properties.Location.Geo Coordinates.Latitude'].dtype)
+# # # print(json_dataframe['properties.Location.Geo Coordinates.Latitude'].dtype)
 # json_result = google_json_add_col_df(json_dataframe)
-# print(json_result)
+# json_result.to_excel('google_json_dataframe.xlsx', index=False)
 
 # yelp_dataframe = read_yelp_html_files()
-# print(yelp_html_add_col_df(yelp_dataframe))
+# yelp_dataframe.to_excel('yelp_html_dataframe.xlsx', index=False)

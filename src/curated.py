@@ -32,15 +32,16 @@ def main():
 
     """Pass df into yelp_html_add_col_df() to rreturn a 
     dataframe with City, State, and Country columns"""
-    print("Creating yelp html with additional columns...")
+    # print("Creating yelp html with additional columns...")
     yelp_html_cols_df = yelp_html_add_col_df(yelp_dataframe)
     # yelp_html_cols_df.to_excel('yelp_html_all_cols.xlsx', index=False)
 
     """Append the three dataframes"""
     final_dataframe = pd.concat([google_csv_cols_df, google_json_cols_df, yelp_html_cols_df], ignore_index=True)
     # print(final_dataframe)
-    final_dataframe.to_excel('concat.xlsx', index=False)
+    final_dataframe.to_excel('curated_data.xlsx', index=False)
 
+    return final_dataframe
 
 
 if __name__ == "__main__":

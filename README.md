@@ -11,7 +11,7 @@ The notes sometimes offer handy information such as: dishes to try, price, happy
 For a better idea of the project plan that details steps taken to complete the project, view [Project Plan Diagram](/Project%20plan%20diagram.png).
 
 # Background on the code
-First, I had to gather all my Google and Yelp data. These are stored under [data-files](data-files) directory. There are six total files ranging in csv, json, or html format.
+First, I gathered all my Google and Yelp data. These are stored under [source-data-files](source-data-files) directory. There are six total files ranging in csv, json, or html format. I left them in the original format they were provided to me. 
 
 ## [source_dataframe.py](src/source_dataframe.py) <br />
 Purpose: Read all the data files into dataframes. 
@@ -32,17 +32,26 @@ Outcome: A lookup against Google Maps API and Yelp API helped return City, State
 ## [main.py](src/main.py) <br />
 Purpose: This is where all the above programs are combined to return a single output file.
 
-Outcome:
+Outcome: A single output file that is used for data analysis. Interpretation to follow below. 
 
 # Data Analysis
 
 # Usage
 Follow these steps to run the program on your local machine:
+* Clone project:
+  * Open desired terminal
+  * cd to desired location
+  * run `git clone git@github.com:mary-vo/my-google-and-yelp-places.git`
+* Open project in Visual Studio:
+  * Open Visual Studio > File > Open Folder... > Navigate to location where project was cloned > click "Select Folder"
 * Create and activate a virtual environment
   1. In terminal, type: `python -m venv venv`
   2. Activate the virtual environment, commands vary based on terminal:
-    * bash: `source venv/Scripts/activate`
-    * powershell: `.\venv\Scripts\activate`
-    * command prompt: `venv\Scripts\activate`
+      * bash: `source venv/Scripts/activate`
+      * powershell: `.\venv\Scripts\activate`
+      * command prompt: `venv\Scripts\activate`
 * While in the root directory, run `pip install -r requirements.txt`
-* In the terminal, cd to `src` > run `python main.py`
+* Add API Keys in [add_remove_columns.py](src/add_remove_columns.py), on lines: 24, 53, 70 (see text file provided via Slack?)
+* In the terminal, cd to `src` > run `python main.py`. Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
+  * Line 19, 31, and 43: df = pd.concat(df_list,ignore_index=True)**.head(10)**
+* 

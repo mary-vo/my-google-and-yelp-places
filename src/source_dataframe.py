@@ -10,17 +10,17 @@ import pandas as pd
 import json
 
 def read_yelp_html_files():
-    yelp_path = os.path.join('..','data-files','yelp\\')
+    yelp_path = os.path.join('..','source-data-files','yelp\\')
     dir = os.listdir(yelp_path)
     df_list=[]
     for i in range(len(dir)):
         data = pd.read_html(yelp_path + dir[i])
         df_list.append(data[0])
-    df = pd.concat(df_list,ignore_index=True)
+    df = pd.concat(df_list,ignore_index=True).head(10)
     # df.to_excel("combined_yelp_data.xlsx", index=False)
     return df
 
-google_path = os.path.join('..','data-files','google\\')
+google_path = os.path.join('..','source-data-files','google\\')
 
 def read_google_csv_files():
     df_list=[]
@@ -28,7 +28,7 @@ def read_google_csv_files():
         if file.endswith(".csv"):
             data = pd.read_csv(google_path + file)
             df_list.append(data)
-    df = pd.concat(df_list,ignore_index=True)
+    df = pd.concat(df_list,ignore_index=True).head(10)
     # df.to_excel("combined_google_csv_data.xlsx", index=False)
     return df
         
@@ -40,7 +40,7 @@ def read_google_json_files():
                 data = json.load(f)
                 df_nested_list = pd.json_normalize(data,record_path=["features"])
                 df_list.append(df_nested_list)
-    df = pd.concat(df_list,ignore_index=True)
+    df = pd.concat(df_list,ignore_index=True).head(10)
     # df.to_excel("combined_google_json_data.xlsx", index=False)
     return df    
 
