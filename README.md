@@ -15,31 +15,31 @@ For a better idea of the project plan that details steps taken to complete the p
 
 First, I gathered all my Google and Yelp data. These are stored under [source-data-files](source-data-files) directory. There are six total files ranging in csv, json, or html format. I left them in the original format they were provided to me.
 
-## [source_dataframe.py](src/source_dataframe.py) `<br />`
+## [source_dataframe.py](src/source_dataframe.py) 
 
 Purpose: Read all the data files into dataframes.
 
 Outcome: I chose to read the files and return them in three dataframes; separated by file format: csv, json, and html dataframe. Note, there are three functions, one for each dataframe.
 
-## [remove_null_places.py](src/remove_null_places.py) `<br />`
+## [remove_null_places.py](src/remove_null_places.py) 
 
 Purpose: I discovered that there were "null" business/titles in some of the dataframes. This occurs when a business has permanently closed.
 
 Outcome: Created a function to remove null Business Name or Title from csv and json dataframe returned in [source_dataframe.py](src/source_dataframe.py).
 
-## [add_remove_columns.py](src/add_remove_columns.py) `<br />`
+## [add_remove_columns.py](src/add_remove_columns.py) 
 
 Purpose: The downloaded Google and Yelp data was missing location information (City, State, and Country).
 
 Outcome: A lookup against Google Maps API and Yelp API helped return City, State, Country information for each business. Additionally, unnecessary columns were dropped in the return statement of each function.
 
-## [main.py](src/main.py) `<br />`
+## [main.py](src/main.py) 
 
 Purpose: This is where all the above programs are combined to return a single output file.
 
 Outcome: A single output file that is used for data analysis. Interpretation to follow below.
 
-## [analysis.ipynb](data-analysis/analysis.ipynb) `<br />`
+## [analysis.ipynb](data-analysis/analysis.ipynb) 
 
 Purpose: At this point, I can start viewing and analyzing the data.
 
@@ -91,3 +91,11 @@ Follow these steps to run the program on your local machine:
 * Upon completion a file called "curated_data.xlsx" will be created under data-analysis folder
 * Run [analysis.ipynb](src/analysis.ipynb)
   * You may need to choose your environment. Run All > Python Environments > choose Python environment (or venv)
+
+
+# Future Enhancements?
+There are still a number of things that I did not accomplish or discovered as potential enhancements in the future:
+  * Further cleansing of the data to combine data where necessary (i.e. data for California and CA can be combined)
+  * Remove duplications via use of a Phone number
+  * Write test cases for methods written in .py files
+  * Figure out how to include outlines for states without data in the choropleth map
