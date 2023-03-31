@@ -17,7 +17,6 @@ def read_yelp_html_files():
         data = pd.read_html(yelp_path + dir[i])
         df_list.append(data[0])
     df = pd.concat(df_list,ignore_index=True)
-    # df.to_excel("combined_yelp_data.xlsx", index=False)
     return df
 
 google_path = os.path.join('..','source-data-files','google\\')
@@ -29,7 +28,6 @@ def read_google_csv_files():
             data = pd.read_csv(google_path + file)
             df_list.append(data)
     df = pd.concat(df_list,ignore_index=True)
-    # df.to_excel("combined_google_csv_data.xlsx", index=False)
     return df
         
 def read_google_json_files():
@@ -41,11 +39,4 @@ def read_google_json_files():
                 df_nested_list = pd.json_normalize(data,record_path=["features"])
                 df_list.append(df_nested_list)
     df = pd.concat(df_list,ignore_index=True)
-    # df.to_excel("combined_google_json_data.xlsx", index=False)
     return df    
-
-
-# read_yelp_html_files()
-# pd.set_option('display.max_rows', None)
-# print(read_google_csv_files())
-# print(read_google_json_files())

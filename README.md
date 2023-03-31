@@ -75,8 +75,9 @@ Follow these steps to run the program on your local machine:
       * powershell: `.\venv\Scripts\activate`
       * command prompt: `venv\Scripts\activate`
 * While in the root directory, run `pip install -r requirements.txt`
-* Add API Keys in [add_remove_columns.py](src/add_remove_columns.py), on lines: 24, 53, 70 (see text file provided via Slack?)
-* In the terminal, cd to `src` > run `python main.py`. Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
-  * Line 19, 31, and 43: df = pd.concat(df_list,ignore_index=True)**.head(10)**
+* Add API Keys in [add_remove_columns.py](src/add_remove_columns.py), on lines: 24, 53, 70 (see text file provided via Slack)
+* In the terminal, cd to `src` > run `python main.py`. Note: Project can take ~18 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
+  * Line 19, 31, and 43: df = pd.concat(df_list,ignore_index=True)**.head(200)**
 * Upon completion a file called "curated_data.xlsx" will be created under data-analysis folder
 * Run [analysis.ipynb](src/analysis.ipynb)
+  * You may need to choose your environment. Run All > Python Environments > choose Python environment (or venv)
