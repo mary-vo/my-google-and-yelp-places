@@ -34,6 +34,11 @@ Purpose: This is where all the above programs are combined to return a single ou
 
 Outcome: A single output file that is used for data analysis. Interpretation to follow below. 
 
+## [analysis.ipynb](data-analysis/analysis.ipynb) <br />
+Purpose: At this point, I can start viewing and analyzing the data.
+
+Outcome: I was able to view my data and identified areas where additional cleansing is required.
+
 # Features Used
 1. Read data in
     * Read in HTML, json, and csv files + json file is parsed, returned as dictionary, and flattened into a flat table as seen here: [source_dataframe.py](src/source_dataframe.py)
@@ -41,13 +46,18 @@ Outcome: A single output file that is used for data analysis. Interpretation to 
 2. Manipulate and clean your data
     * Remove null records as seen here: [remove_null_places.py](src/remove_null_places.py)
     * Add and drop columns as seen here: [add_remove_columns.py](src/add_remove_columns.py)
-3. Analyze your data
+3. Analyze your data: [analysis.ipynb](data-analysis/analysis.ipynb)
+    * Used info() and describe() to get basic information about the data
+    * Used nunique() to return unique/distinct for each column in the dataframe
+    * Used filtering in dataframes to return only places in the United States
+    * Merged dataframe (for map visualization)
+    * Use len() to return the count of records in dataframe
+    * Used str.contains() to complete a string search in a column
 4. Visualize your data
+  * Created a chloropleth map
+  * Create a bar chart
 5. Interpret your data
-    * fkldjgdfg
-
-# Data Analysis
-### About the Data
+    * Please view interpretation of data throughout the markdown in Juypter notebook
 
 
 # Usage
@@ -66,7 +76,7 @@ Follow these steps to run the program on your local machine:
       * command prompt: `venv\Scripts\activate`
 * While in the root directory, run `pip install -r requirements.txt`
 * Add API Keys in [add_remove_columns.py](src/add_remove_columns.py), on lines: 24, 53, 70 (see text file provided via Slack?)
-<!-- * In the terminal, cd to `src` > run `python main.py`. Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
-  * Line 19, 31, and 43: df = pd.concat(df_list,ignore_index=True)**.head(10)** -->
-* Run [analysis.ipynb](src/analysis.ipynb).  Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
+* In the terminal, cd to `src` > run `python main.py`. Note: Project can take ~15 minutes to run. If you want to reduce run time, limit data by making the following modifications in [source_dataframe.py](src/source_dataframe.py):
   * Line 19, 31, and 43: df = pd.concat(df_list,ignore_index=True)**.head(10)**
+* Upon completion a file called "curated_data.xlsx" will be created under data-analysis folder
+* Run [analysis.ipynb](src/analysis.ipynb)

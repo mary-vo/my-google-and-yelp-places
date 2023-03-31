@@ -67,7 +67,7 @@ def google_json_add_col_df(google_json_df):
 
 
 def yelp_html_add_col_df(yelp_html_df):
-    headers = {"Accept": "*/*", "Authorization": "Bearer "}
+    headers = {"Accept": "*/*", "Authorization": "Bearer git status"}
     yelp_html_df['City']=''
     yelp_html_df['State'] =''
     yelp_html_df['Country'] =''

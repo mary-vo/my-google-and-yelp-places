@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 from add_remove_columns import (google_csv_add_col_df, google_json_add_col_df,yelp_html_add_col_df)
 from remove_null_places import remove_null_name_rows
 from source_dataframe import (read_google_csv_files, read_google_json_files,read_yelp_html_files)
@@ -39,7 +40,7 @@ def main():
     """Append the three dataframes"""
     final_dataframe = pd.concat([google_csv_cols_df, google_json_cols_df, yelp_html_cols_df], ignore_index=True)
     # print(final_dataframe)
-    final_dataframe.to_excel('curated_data.xlsx', index=False)
+    final_dataframe.to_excel("../data-analysis/curated_data.xlsx", index=False)
 
     return final_dataframe
 
