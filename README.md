@@ -99,3 +99,7 @@ There are still a number of things that I did not accomplish or discovered as po
   * Remove duplications via use of a Phone number
   * Write test cases for methods written in .py files
   * Figure out how to include outlines for states without data in the choropleth map
+
+  ## Note to Self
+  Yelp API Key: https://www.yelp.com/developers/v3/manage_app
+  Google API Key: https://console.cloud.google.com/apis/credentials?authuser=1&project=intrepid-app-379022 > Create Credentials > API Keys
