@@ -101,5 +101,5 @@ There are still a number of things that I did not accomplish or discovered as po
   * Figure out how to include outlines for states without data in the choropleth map
 
   ## Note to Self
-  Yelp API Key: https://www.yelp.com/developers/v3/manage_app
+  Yelp API Key: https://www.yelp.com/developers/v3/manage_app <br>
   Google API Key: https://console.cloud.google.com/apis/credentials?authuser=1&project=intrepid-app-379022 > Create Credentials > API Keys

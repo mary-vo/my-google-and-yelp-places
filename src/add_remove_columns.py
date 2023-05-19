@@ -1,6 +1,6 @@
 """
 Add city, state, country column to the df returned in
-read_google_csv_files() and read_google_json_files()
+read_google_csv_files(), read_google_json_files(), and yelp_html_add_col_df()
 
 Return df with newly added columns and remove un-necessary columns
 to set up for final union
