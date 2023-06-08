@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 # program files
-*.xlsx
 *.txt
 *.csv

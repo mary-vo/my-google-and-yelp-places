@@ -7,7 +7,6 @@ to set up for final union
 """
 import requests
 import json
-# import pandas as pd
 from source_dataframe import read_google_csv_files, read_google_json_files, read_yelp_html_files
 from remove_null_places import remove_null_name_rows
 

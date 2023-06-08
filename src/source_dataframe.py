@@ -40,3 +40,7 @@ def read_google_json_files():
                 df_list.append(df_nested_list)
     df = pd.concat(df_list,ignore_index=True)
     return df    
+
+read_yelp_html_files().to_excel("data/yelp_html.xlsx")
+read_google_csv_files().to_excel("data/google_csv.xlsx")
+read_google_json_files().to_excel("data/google_json.xlsx")
